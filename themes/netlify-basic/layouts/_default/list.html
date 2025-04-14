@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <div class="homepage-content"> <!-- Reuse existing class for centering -->
+    <!-- The <h1> title is now handled by the markdown content below -->
+    <hr> <!-- Optional horizontal line -->
+    {{ .Content }} <!-- Renders the content from _index.md, including its heading -->
+  </div>
+{{ end }}
