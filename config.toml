@@ -2,3 +2,7 @@ baseURL = 'http://hugo-quickstart-template.netlify.com'
 languageCode = 'en-us'
 title = 'Lab Initio'
 theme = 'netlify-basic'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # Allow raw HTML rendering

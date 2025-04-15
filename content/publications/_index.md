@@ -10,7 +10,7 @@ draft = false
 
 224\. A. Karton, K. P. Gregory, B. Chan. How Perfluorination Alters PAH Stability: Benchmarking DFT with CCSD(T) Isomerization Energies of Perfluorinated PAHs. *Chemical Physics*, in press (2025).
 
-223\. A. Karton. Extensive DFT Benchmarking Using a Large Database of 3366 Total Atomization Energies at the CCSD(T)/CBS Level via W1-F12 Theory. *Chemical Physics Letters*, 868, 142030 (2025). <a href="https://doi.org/10.1016/j.cplett.2025.142030" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cplett.2025.142030</a>
+<a href="https://drive.google.com/uc?export=download&id=1YBLodWmUWQ6jIA9vmqro1qNowUQOPLkf" download>223</a>\. A. Karton. Extensive DFT Benchmarking Using a Large Database of 3366 Total Atomization Energies at the CCSD(T)/CBS Level via W1-F12 Theory. *Chemical Physics Letters*, 868, 142030 (2025). <a href="https://doi.org/10.1016/j.cplett.2025.142030" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cplett.2025.142030</a>
 
 222\. A. Karton. Three Decades of Quantum Science: How Quantum Chemistry Transformed Thermochemical Database Generation for Benchmarking DFT and Machine Learning. *Australian Journal of Chemistry*, Beckwith Review, 78, tbd (2025). <a href="https://doi.org/10.1071/CH24130" target="_blank" rel="noopener noreferrer">https://doi.org/10.1071/CH24130</a>
 
