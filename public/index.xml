@@ -6,7 +6,21 @@
     <description>Recent content on Lab Initio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Prof. Amir Karton&lt;/strong&gt;&lt;br&gt;&#xA;Professor of Physical and Materials Chemistry&lt;br&gt;&#xA;Associate Dean of Research&lt;br&gt;&#xA;Faculty of Science, Agriculture, Business and Law&lt;/p&gt;&#xA;&lt;p&gt;Riggs Building (Office 2.08)&lt;br&gt;&#xA;8 Chemistry Rd&lt;br&gt;&#xA;School of Science and Technology&lt;br&gt;&#xA;University of New England&lt;br&gt;&#xA;Armidale NSW 2351&lt;br&gt;&#xA;Australia&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;T:&lt;/strong&gt; +61 2 6773 5528&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;E:&lt;/strong&gt; &lt;a href=&#34;mailto:amir.karton@une.edu.au&#34;&gt;amir.karton@une.edu.au&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;W:&lt;/strong&gt; &lt;a href=&#34;https://www.une.edu.au/staff-profiles/science-and-technology/amir-karton&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.une.edu.au/staff-profiles/science-and-technology/amir-karton&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Map:&lt;/strong&gt; &lt;a href=&#34;https://g.co/kgs/sPZvg6a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;View on Google Maps&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;editorial-roles&#34;&gt;Editorial Roles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Editor, Chemical Physics Letters (Elsevier)&lt;/li&gt;&#xA;&lt;li&gt;Editor, Australian Journal of Chemistry (CSIRO)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;une-campus&#34;&gt;UNE Campus&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/une.jpg&#34; alt=&#34;University of New England Campus&#34; title=&#34;UNE Campus&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test Page</title>
+      <link>http://localhost:1313/test/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/</guid>
+      <description>&lt;p&gt;This is a test page. Does it appear?&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

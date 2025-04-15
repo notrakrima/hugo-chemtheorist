@@ -1,0 +1,51 @@
+/* Center the main title on the homepage */
+.homepage-content h1 {
+  text-align: center;   /* Center the H1 */
+  margin-bottom: 0.25em; /* Reduce space below H1 slightly */
+  margin-top: 1em;      /* Add some space above H1 */
+}
+
+/* Styling for the homepage tagline */
+.tagline {
+  font-size: 1.2rem;    /* Slightly larger than before, adjust if needed */
+  font-weight: 400;
+  color: #444;         /* Slightly darker gray for better readability */
+  text-align: center;
+  margin-top: 0;        /* Remove top margin, rely on h1 bottom margin */
+  margin-bottom: 2em;   /* Increase space before the horizontal rule/slideshow */
+  max-width: 750px;     /* Adjust max-width if needed for better wrapping */
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;     /* Slightly more line spacing for wrapped text */
+}
+
+/* Optional: Style the horizontal rule for subtlety */
+.homepage-content hr {
+   border: 0;            /* Remove default border */
+   height: 1px;          /* Make it thin */
+   background-color: #ddd; /* Light gray color */
+   margin-top: 1em;      /* Adjust space above HR */
+   margin-bottom: 2.5em; /* Adjust space below HR (before slideshow) */
+}
+
+/* Increase list item spacing on pages using the 'homepage-content' class */
+.homepage-content ul li {
+    margin-bottom: 0.75em; /* Adjust value (e.g., 0.5em, 1em, 10px) if needed */
+}
+.homepage-content ol li { /* Add rule for ordered lists too, just in case */
+    margin-bottom: 0.75em;
+}
+
+/* Add space ABOVE the University headings (h3) on pages using .homepage-content */
+.homepage-content h3 {
+  margin-top: 2em;  /* Adjust value as needed (e.g., 1.5em, 2.5em, 30px) */
+  /* Optional: Add a little space below the heading too, if desired */
+  /* margin-bottom: 0.5em; */
+}
+
+/* Increase line spacing for paragraphs within .homepage-content */
+.homepage-content p {
+  line-height: 1.7; /* Adjust this value - 1.5 is often default, try 1.6, 1.7, 1.8 */
+  /* Optional: Add some space below the paragraph, before the first heading */
+  margin-bottom: 1.5em; /* Adjust as needed */
+}
