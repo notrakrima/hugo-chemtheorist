@@ -17,6 +17,12 @@
     <loc>http://localhost:1313/resources/wn_theory/w1-f12/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/resources/wn_theory/w2-f12/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resources/wn_theory/w3-f12/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,6 +35,9 @@
     <loc>http://localhost:1313/publications/</loc>
     <lastmod>2024-07-30T12:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/academic_profile/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/resources/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,7 +47,11 @@
     <loc>http://localhost:1313/test/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/awards/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/editor/</loc>
   </url><url>
     <loc>http://localhost:1313/people/</loc>
   </url><url>

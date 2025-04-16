@@ -1,0 +1,11 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="/css/demo-styling.css">
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" /> <!-- Swiper CSS -->
+  <link rel="stylesheet" href="/css/custom.css"> <!-- Add this line for your custom styles -->
+  {{ $title := print .Site.Title " | " .Title }}
+  {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+  <title>{{ $title }}</title>
+{{ partial "head_custom.html" . }}
+</head>

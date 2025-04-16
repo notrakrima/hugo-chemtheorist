@@ -1,8 +1,13 @@
 baseURL = 'http://hugo-quickstart-template.netlify.com'
 languageCode = 'en-us'
 title = 'Lab Initio'
-theme = 'netlify-basic'
-[markup]
+theme = 'netlify-basic' # Still using netlify-basic theme here
+
+[params]
+  math = true # Math enabled under params
+
+[markup] # Only one markup section
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true # Allow raw HTML rendering
+

@@ -36,11 +36,11 @@ For further details see the Wn-F12 paper<sup>1</sup> and these reviews.<sup>2,3<
 
 ## References:
 
-[1] A. Karton, J. M. L. Martin. Explicitly correlated Wn theory: W1-F12 and W2-F12, Journal of Chemical Physics, 136, 124114 (2012). http://dx.doi.org/10.1063/1.3697678
+[1] A. Karton, J. M. L. Martin. Explicitly correlated Wn theory: W1-F12 and W2-F12, Journal of Chemical Physics, 136, 124114 (2012). http://dx.doi.org/10.1063/1.3697678 <a href="https://drive.google.com/uc?export=download&id=1Br1-ZAVzZ5wgogvl5WAEH4zMX5dQkt-a">**[Download PDF]**</a>
 <br>
-[2] A. Karton. A computational chemist’s guide to accurate thermochemistry for organic molecules. Wiley Interdisciplinary Reviews: Computational Molecular Science, 6, 292–310 (2016). http://dx.doi.org/10.1002/wcms.1249
+[2] A. Karton. A computational chemist’s guide to accurate thermochemistry for organic molecules. Wiley Interdisciplinary Reviews: Computational Molecular Science, 6, 292–310 (2016). http://dx.doi.org/10.1002/wcms.1249 <a href="https://drive.google.com/uc?export=download&id=1vIj_ALYdPggc9jJq2u-KlmOwltzTashO">**[Download PDF]**</a>
 <br>
-[3] A. Karton. Quantum Mechanical Thermochemical Predictions 100 years after the Schrödinger Equation. Annual Reports in Computational Chemistry, Vol 18, pg. 123–166 (2022). https://doi.org/10.1016/bs.arcc.2022.09.003
+[3] A. Karton. Quantum Mechanical Thermochemical Predictions 100 years after the Schrödinger Equation. Annual Reports in Computational Chemistry, Vol 18, pg. 123–166 (2022). https://doi.org/10.1016/bs.arcc.2022.09.003 <a href="https://drive.google.com/uc?export=download&id=1TknjBFeJMuASu9nBoqse9DKrYjoT8K2z">**[Download PDF]**</a>
 <br>
 
 
