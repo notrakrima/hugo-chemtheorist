@@ -3,67 +3,53 @@
 <div class="homepage-content">
 
   <h1>{{ .Site.Title }}</h1>
-<p class="tagline">Accelerating the discovery of functional molecules and materials for catalysis and sustainable energy through AI-enhanced quantum chemistry</p>
-<!-- This uses the title from your config.toml -->
-  <!-- Or you can hardcode it like before: <h1>ChemTheorist Research Group</h1> -->
+  <p class="tagline">The First Principles AI Engine for Chemical Discovery</p> 
+  <!-- <p class="tagline">AI-Powered Quantum Chemistry for a Sustainable Future</p> -->
 
-  <hr> 
+  <hr>
   <!-- Optional horizontal line for separation -->
 
-  <!-- === Slideshow Section (Replaces Hero Image Placeholder) === -->
+  <!-- === Introduction Section (Moved Up) === -->
+  <div class="introduction">
+    <p>
+      Welcome to Lab Initio, where we pioneer AI-Driven Quantum Chemical Technologies. We bridge the gap between theoretical prediction and real-world application by integrating state-of-the-art computational simulations with high-throughput robotic experimentation. Our unique platform leverages powerful GPU-based computing and advanced graph neural networks for rapid molecular dynamics, followed by high-level DFT and ab initio calculations. This allows us to generate the world's most sophisticated and accurate chemical databases, providing the benchmark accuracy needed for cutting-edge AI models. We connect these powerful simulations directly to a self-driving automated molecular and materials synthesis and formulation Platform, creating an unprecedented feedback loop that dramatically accelerates the discovery and optimization of chemical processes.
+    </p>
+  </div>
+
+  <hr>
+  <!-- Optional horizontal line between intro and slideshow -->
+
+  <!-- === Slideshow Section === -->
   <div class="swiper-container hero-slideshow">
-    <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
-      
-      <!-- Slide 1 -->
-      <div class="swiper-slide">
-        <img src="/images/Catalysis.jpg" alt="Catalysis Research Image"> 
-      </div>
 
-      <!-- Slide 2 -->
-      <div class="swiper-slide">
-        <img src="/images/GO.jpg" alt="GO Image"> <!-- Consider a more descriptive alt text -->
-      </div>
-
-      <!-- Slide 3 -->
-      <div class="swiper-slide">
-        <img src="/images/GTOC.jpg" alt="GTOC Image"> <!-- Consider a more descriptive alt text -->
-      </div>
-
-      <!-- Slide 4 -->
-      <div class="swiper-slide">
-        <img src="/images/Jacob.jpg" alt="Jacob Image"> <!-- Consider a more descriptive alt text -->
-      </div>
-
-      <!-- Slide 5 -->
-      <div class="swiper-slide">
-        <img src="/images/Pople.jpg" alt="Pople Image"> <!-- Consider a more descriptive alt text -->
-      </div>
-
-
-    <!-- Slides -->
-    <div class="swiper-slide"><img src="/images/cover1.jpg" alt="Research Cover Image 1"></div>
-    <div class="swiper-slide"><img src="/images/cover2.jpg" alt="Research Cover Image 2"></div>
-    <div class="swiper-slide"><img src="/images/cover3.jpg" alt="Research Cover Image 3"></div>
-    <div class="swiper-slide"><img src="/images/cover4.jpg" alt="Research Cover Image 4"></div>
-    <div class="swiper-slide"><img src="/images/cover5.jpg" alt="Research Cover Image 5"></div>
-    <div class="swiper-slide"><img src="/images/cover6.jpg" alt="Research Cover Image 6"></div>
-    <div class="swiper-slide"><img src="/images/cover7.jpg" alt="Research Cover Image 7"></div>
-    <div class="swiper-slide"><img src="/images/cover8.jpg" alt="Research Cover Image 8"></div>
-    <div class="swiper-slide"><img src="/images/cover9.jpg" alt="Research Cover Image 9"></div>
-    <div class="swiper-slide"><img src="/images/cover10.jpg" alt="Research Cover Image 10"></div>
-    <div class="swiper-slide"><img src="/images/cover11.jpg" alt="Research Cover Image 11"></div>
-    <div class="swiper-slide"><img src="/images/cover12.jpg" alt="Research Cover Image 12"></div>
-    <div class="swiper-slide"><img src="/images/cover13.jpg" alt="Research Cover Image 13"></div>
-    <div class="swiper-slide"><img src="/images/cover14.jpg" alt="Research Cover Image 14"></div>
-    <div class="swiper-slide"><img src="/images/cover15.jpg" alt="Research Cover Image 15"></div>
-    <div class="swiper-slide"><img src="/images/cover16.jpg" alt="Research Cover Image 16"></div>
+   <div class="swiper-slide"> <img src="/images/GTOC.jpg" alt="GTOC Image"></div>
+   <div class="swiper-slide"><img src="/images/cover1.jpg" alt="Research Cover Image 1"></div>
+   <div class="swiper-slide"><img src="/images/cover2.jpg" alt="Research Cover Image 2"></div>
+   <div class="swiper-slide"> <img src="/images/GO.jpg" alt="GO Image"></div>
+   <div class="swiper-slide"><img src="/images/cover3.jpg" alt="Research Cover Image 3"></div>
+   <div class="swiper-slide"><img src="/images/cover5.jpg" alt="Research Cover Image 5"></div>
+   <div class="swiper-slide"><img src="/images/Catalysis.jpg" alt="Catalysis Research Image"></div>
+   <div class="swiper-slide"><img src="/images/cover7.jpg" alt="Research Cover Image 7"></div>
+   <div class="swiper-slide"><img src="/images/cover6.jpg" alt="Research Cover Image 6"></div>
+   <div class="swiper-slide"> <img src="/images/Pople.jpg" alt="Pople Image"></div>
+   <div class="swiper-slide"><img src="/images/cover11.jpg" alt="Research Cover Image 11"></div>
+   <div class="swiper-slide"><img src="/images/cover12.jpg" alt="Research Cover Image 12"></div>
+   <div class="swiper-slide"><img src="/images/cover13.jpg" alt="Research Cover Image 13"></div>
+   <div class="swiper-slide"><img src="/images/cover14.jpg" alt="Research Cover Image 14"></div>
+   <div class="swiper-slide"><img src="/images/cover15.jpg" alt="Research Cover Image 15"></div>
+   <div class="swiper-slide"><img src="/images/cover16.jpg" alt="Research Cover Image 16"></div>
+   <div class="swiper-slide"> <img src="/images/Jacob.jpg" alt="Jacob Image"></div>
+   <div class="swiper-slide"><img src="/images/cover4.jpg" alt="Research Cover Image 4"></div>
+   <div class="swiper-slide"><img src="/images/cover8.jpg" alt="Research Cover Image 8"></div>
+   <div class="swiper-slide"><img src="/images/cover9.jpg" alt="Research Cover Image 9"></div>
+   <div class="swiper-slide"><img src="/images/cover10.jpg" alt="Research Cover Image 10"></div>
 
 
       <!-- Add more <div class="swiper-slide">...</div> blocks if you add more images -->
 
     </div>
-    
+
     <!-- Optional: Add Pagination (dots) -->
     <div class="swiper-pagination"></div>
 
@@ -73,25 +59,10 @@
   </div>
   <!-- === End Slideshow Section === -->
 
-  <hr> 
-  <!-- Optional horizontal line -->
-
-  <!-- === Introduction Section === -->
-  <div class="introduction">
-    <h2>Welcome</h2>
-    <p>
-    We design functional molecules and materials for catalysis and sustainable energy technologies using quantum simulations
-    </p>
-    <p>
-      Explore our website to learn more about our <a href="/research/">research projects</a>, 
-      read our latest <a href="/publications/">publications</a>, and meet our <a href="/people/">group members</a>. 
-      <!-- Note: These links (/research/, /publications/, /people/) won't work until you create those sections/pages later -->
-    </p>
-  </div>
-
-  <hr> 
-  <!-- Optional horizontal line -->
+  <hr>
+  <!-- Optional horizontal line below slideshow -->
 
 </div> <!-- Close homepage-content div -->
 
 {{ end }}
+

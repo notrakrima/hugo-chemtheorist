@@ -49,3 +49,96 @@
   /* Optional: Add some space below the paragraph, before the first heading */
   margin-bottom: 1.5em; /* Adjust as needed */
 }
+
+/* --- SwiperJS Homepage Slideshow Adjustments --- */
+
+/* Make the main container relatively positioned if not already,
+   so absolute positioning of children works as expected. */
+.swiper-container.hero-slideshow {
+  position: relative;
+  /* Add some bottom margin to create space for the dots below */
+  margin-bottom: 40px; /* Adjust value as needed */
+}
+
+/* 1. Move Arrows Closer */
+.swiper-container.hero-slideshow .swiper-button-prev {
+  /* Adjust the 'left' value to bring it inwards */
+  left: 10px; /* Example: 10px from the left edge. Adjust as needed. */
+  /* You might need !important if theme styles are too specific */
+  /* left: 10px !important; */
+}
+
+.swiper-container.hero-slideshow .swiper-button-next {
+  /* Adjust the 'right' value to bring it inwards */
+  right: 10px; /* Example: 10px from the right edge. Adjust as needed. */
+  /* You might need !important */
+  /* right: 10px !important; */
+}
+
+/* Ensure arrows are vertically centered if needed (Swiper usually does this) */
+.swiper-container.hero-slideshow .swiper-button-prev,
+.swiper-container.hero-slideshow .swiper-button-next {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+/* 2. Move Dots Below Slideshow */
+.swiper-container.hero-slideshow .swiper-pagination {
+  /* Change positioning strategy */
+  position: absolute; /* Keep absolute positioning relative to the container */
+  bottom: -25px;     /* Position it BELOW the container. Adjust value as needed. */
+  left: 0;           /* Align to the left edge of the container */
+  width: 100%;       /* Make it full width */
+  text-align: center;/* Center the dots within the full width */
+
+  /* Remove any top/transform properties that might interfere */
+  top: auto;
+  transform: none;
+}
+
+/* Optional: Style the dots if needed */
+.swiper-container.hero-slideshow .swiper-pagination .swiper-pagination-bullet {
+  background-color: #cccccc; /* Example: grey inactive dots */
+  opacity: 1;
+}
+
+.swiper-container.hero-slideshow .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #007bff; /* Example: blue active dot */
+}
+
+/* --- Make YouTube Video Smaller --- */
+
+/* Target the wrapper div created by the Hugo youtube shortcode.
+   Common classes might be 'embed', 'video-16x9', 'youtube-embed'.
+   Inspect your page to confirm the correct class name.
+   Let's assume it might have a class like 'embed' or similar. */
+
+.embed, /* Try this first - common class */
+.youtube-embed-wrapper, /* Or another class you find */
+.video-16x9 /* Another possibility */
+ {
+  /* Set a maximum width for the video container */
+  max-width: 600px; /* Adjust this value as needed (e.g., 500px, 700px) */
+
+  /* Center the container if it's narrower than the available space */
+  margin-left: auto;
+  margin-right: auto;
+
+  /* Add some space below the video if desired */
+  margin-bottom: 1.5em;
+}
+
+/* Ensure the iframe inside fills the wrapper */
+.embed iframe,
+.youtube-embed-wrapper iframe,
+.video-16x9 iframe {
+    /* These styles are usually already applied by Hugo/theme for responsiveness,
+       but including them ensures the iframe scales correctly within the
+       now potentially smaller wrapper */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
