@@ -8,7 +8,7 @@ title: "Editor"
 
 ## Chemical Physics Letters (Elsevier)
 
-I am the Editor of *Chemical Physics Letters*, which specializes in the rapid publication of short communications in the broad field of chemical physics. *Chemical Physics Letters* publishes novel experimental results, and significant theoretical developments across all areas of chemical physics, molecular physics, and physical chemistry. Its focus on speed and significance makes it a key outlet for timely dissemination of cutting-edge research.
+I am the Editor of *Chemical Physics Letters*, which specializes in the rapid publication of short communications in the broad field of chemical physics. *Chem. Phys. Lett.* publishes novel experimental results, and significant theoretical developments across all areas of chemical physics, molecular physics, and physical chemistry. Its focus on speed and significance makes it a key outlet for timely dissemination of cutting-edge research.
 
 **Relevant Links:**
 *   [Journal Homepage](https://www.journals.elsevier.com/chemical-physics-letters)
@@ -20,7 +20,7 @@ I am the Editor of *Chemical Physics Letters*, which specializes in the rapid pu
 
 ## Australian Journal of Chemistry (CSIRO Publishing)
 
-The *Australian Journal of Chemistry* is a high-impact, international journal publishing original research across all disciplines of chemistry. Published by CSIRO Publishing, it provides a platform for significant contributions, reviews, and communications, fostering chemical science discovery globally, with strong roots in the Australian research community.
+I am an Associate Editor of the *Australian Journal of Chemistry*. *Aust. J. Chem.* is a high-impact, international journal publishing original research across all disciplines of chemistry. Published by CSIRO Publishing, it provides a platform for significant contributions, reviews, and communications, fostering chemical science discovery globally, with strong roots in the Australian research community.
 
 **Relevant Links:**
 *   [Journal Homepage](https://www.publish.csiro.au/CH)

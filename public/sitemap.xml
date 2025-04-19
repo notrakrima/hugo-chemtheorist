@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/resources/aust_comp_chem/</loc>
+    <loc>http://localhost:1313/explore/aust_comp_chem/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/chem_data_bases/</loc>
+    <loc>http://localhost:1313/explore/chem_data_bases/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/comp_chem_conf/</loc>
+    <loc>http://localhost:1313/explore/comp_chem_conf/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/comp_chem_journals/</loc>
+    <loc>http://localhost:1313/explore/comp_chem_journals/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/wn_theory/l-w1x/</loc>
+    <loc>http://localhost:1313/explore/wn_theory/l-w1x/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/wn_theory/w1-f12/</loc>
+    <loc>http://localhost:1313/explore/wn_theory/w1-f12/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/wn_theory/w2-f12/</loc>
+    <loc>http://localhost:1313/explore/wn_theory/w2-f12/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/wn_theory/w3-f12/</loc>
+    <loc>http://localhost:1313/explore/wn_theory/w3-f12/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/multiref_diag/</loc>
+    <loc>http://localhost:1313/explore/multiref_diag/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/wn_theory/</loc>
+    <loc>http://localhost:1313/explore/wn_theory/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/</loc>
@@ -41,7 +41,7 @@
     <loc>http://localhost:1313/academic_profile/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
+    <loc>http://localhost:1313/explore/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
