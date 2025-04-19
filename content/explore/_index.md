@@ -6,12 +6,12 @@ draft: false
 
 ## Computational Chemistry Hub
 
-*   **[Chemical Databases](/resources/chem_data_bases/)**
-*   **[Wn Theories](/resources/wn_theory/)**
-*   **[Multireference Diagnostics](/resources/multiref_diag/)**
-*   **[Australian Computational Chemistry Groups](/resources/aust_comp_chem/)**
-*   **[Computational Chemistry Conferences](/resources/comp_chem_conf/)**
-*   **[Computational Chemistry Journals](/resources/comp_chem_journals/)**
+*   **[Chemical Databases](/explore/chem_data_bases/)**
+*   **[Wn Theories](/explore/wn_theory/)**
+*   **[Multireference Diagnostics](/explore/multiref_diag/)**
+*   **[Australian Computational Chemistry Groups](/explore/aust_comp_chem/)**
+*   **[Computational Chemistry Conferences](/explore/comp_chem_conf/)**
+*   **[Computational Chemistry Journals](/explore/comp_chem_journals/)**
 
 
 

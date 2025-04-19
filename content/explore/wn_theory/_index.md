@@ -5,8 +5,8 @@ draft: false
 ---
 
 ## Wn Theories 
-*   [How to run a W1-F12 calculation with Molpro](/resources/wn_theory/w1-f12/)
-*   [How to run a W2-F12 calculation with Molpro](/resources/wn_theory/w2-f12/)
-*   [How to run a W3-F12 calculation with Molpro](/resources/wn_theory/w3-f12/)
-*   [How to run a L-W1X calculation with ORCA](/resources/wn_theory/l-w1x/)
+*   [How to run a W1-F12 calculation with Molpro](/explore/wn_theory/w1-f12/)
+*   [How to run a W2-F12 calculation with Molpro](/explore/wn_theory/w2-f12/)
+*   [How to run a W3-F12 calculation with Molpro](/explore/wn_theory/w3-f12/)
+*   [How to run a L-W1X calculation with ORCA](/explore/wn_theory/l-w1x/)
 

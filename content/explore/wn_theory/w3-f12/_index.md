@@ -8,7 +8,7 @@ draft: false
 
 To run a W3-F12 calculation follow these steps:
 
-1. Run a W2-F12 calculation using the Molpro script available [here](/resources/wn_theory/w2-f12/).
+1. Run a W2-F12 calculation using the Molpro script available [here](/explore/wn_theory/w2-f12/).
 
 2. Run the following calculations with MRCC:
 <br>
