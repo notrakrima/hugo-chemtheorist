@@ -1,0 +1,210 @@
+   			TAE0 used for evaluating 		 
+			CCSD(T) composite ab initio methods (a) 			
+cyclobutene		947.166 (b) 
+t-butadiene		959.699 (b) 
+cyclobutane		1080.856 (b) 
+n-pentane		1496.829 (b) 
+benzene			1305.434 (b) 
+acetic			764.355  
+hclo4			313.861 (b) 
+c2f6			769.966 (b) 
+c2cl6			543.450 (b) 
+n2o4			455.568 (b) 
+cloocl			142.498 (b) 
+clo3			159.898 (b) 
+hoclo			192.058 (b) 
+pf5			546.928 (b) (c)
+sf6			466.282 (b) 
+oxadiazole		676.856 (b) 
+dioxetan2one		723.294 (b) 
+dioxetane		709.452 (b) 
+dithiotane		646.567 (b) 
+borole			1009.291 (b) 
+c2cl4			457.586 (b) 
+c2f4			573.984 (b) 
+cis-c2f2cl2		513.940 (b) 
+trans-c2f2cl2		514.302 (b) 
+cyclopentadiene		1123.695 (b) 
+formic-anhydride	729.046 (b) 
+furan			950.569 (b) 
+oxetane			893.178 (b) 
+pyrrole			1020.691 (b) 
+silole			1048.227 (b) 
+thiophene		921.976 (b) 
+beta-lactim		942.762 (b) 
+clf5			174.846 (b) 
+clf3			121.922 (b) 
+pf3			358.178 (b) 
+hoclo2			257.247 (b) 
+h2no			258.268 (b) 
+nh2oh			334.135 (b) 
+cyclopropane		802.913 (b) 
+cyclopropene		646.639 (b) 
+ch3ph2			504.810 (b) 
+nh2f			238.774 (b) 
+cclh3			371.306 (b) 
+clno			186.787 (b) 
+tetrahedrane		755.795 (b) 
+n-butane		1220.023 (b) 
+c2cl2			341.197 (b) 
+c2clh3			516.461 (b) 
+c2clh5			650.112 (b) 
+c2clh			365.341 (b) 
+ccl2h2			351.127 (b) 
+ccl2o			338.050 (b) 
+ccl3h			329.795 (b) 
+ccl4			305.340 (b) 
+cf2cl2			380.820 (b) 
+fno			210.159 (b) 
+ch2clf			381.724 (b) 
+chf3			441.984 (b) 
+clcof			373.709 (b) 
+formamide		539.298 (b) 
+cyclobutadiene		782.290 (b) 
+allyl			725.171 (b) 
+cyclopropyl		695.541 (b) 
+h2ccn			492.784 (b) 
+oxirene			437.280
+oxirane			615.020
+dioxirane		388.920
+ketene			513.100
+acetaldehyde		642.580
+formic			479.800
+methanol		480.940
+ethanol			760.680
+glyoxal			610.970
+t-hcoh			305.270
+c-hcoh			300.860
+hcnh			319.890
+hocn			395.980
+honc			336.830
+hnco			420.730
+hcno			352.230
+c-n2h2			273.690
+hnnn			318.060
+hnc			288.270
+t-hono			299.740
+c-hono			299.310
+nh2cl			230.540
+t-hooo			220.740 (b) 
+c-hooo			221.150
+ch3f			397.680
+ch2f2			416.000
+cf4			465.500
+sih3f			363.690
+sif4			565.920
+c2h3f			545.630
+c2h5f			678.230
+fccf			376.200
+hccf			385.080
+hcof			389.550
+f2co			410.040
+ch2-sing		170.870
+propane			943.000
+propene			811.560
+propyne			670.470
+allene			669.400
+b2h6			567.530
+bhf2			398.730
+bf3			461.320
+c2h6			666.280
+h2cn			327.950
+nccn			491.500
+ch2nh2			451.020
+ch3nh			444.220
+ch3nh2			542.220
+cf2			253.260
+n2h			216.450
+t-n2h2			278.680
+n2h4			404.760
+fo2			130.150
+foof			146.000
+alf3			423.480
+si2h6			503.090
+p4			285.960
+so2			254.420
+so3			336.120
+ocs			328.650
+cs2			274.670
+s2o			203.580
+s3			163.970
+s4-c2v			228.150
+ccl2			172.710
+alcl3			305.600
+clcn			278.790
+oclo			122.320
+cloo			121.880
+cl2o			96.940
+bn3pi			103.550
+cf			130.350
+ch2c			345.100
+ch2ch			423.060
+c2h4			532.110
+ch2nh			414.410
+hco			270.660
+h2co			357.510
+co2			381.940
+hno			196.780
+no2			221.610
+n2o			263.430
+o3			142.330
+hoo			165.970
+hooh			252.080
+f2o			89.420
+hocl			156.730
+ssh			157.680
+b2			65.850
+bh			81.490
+bh3			264.810
+bn			102.620
+bf			179.950
+nh			78.340
+nh2			170.580
+hcn			303.210
+hof			149.320
+alh			70.840
+alh3			200.910
+alf			161.760
+alcl			120.630
+sih			70.650
+sih4			304.160
+sio			190.370
+sif			140.620
+cs			169.590
+h2			103.280
+oh			101.760
+hf			135.270
+h2o			219.320
+ch			79.990
+ch2-trip		179.860
+ch3			289.080
+ch4			392.460
+cch			257.040
+c2h2			388.700
+nh3			276.530
+c2			144.070
+n2			225.000
+co			256.150
+cn			178.180
+no			149.800
+o2			117.960
+of			51.170
+f2			36.950
+ph3			227.360
+hs			83.680
+h2s			173.580
+hcl			102.200
+so			123.700
+clo			63.370
+clf			60.280
+p2			116.220
+s2			101.770
+cl2			57.070
+
+(a) ZPVE-inclusive, all-electron, relativistic, DBOC-inclusive FCI/CBS total atomization energies at 0 K (TAE0) for comparison with experiment. 
+
+(b) Note that the ZPVE values used for converting the W4 TAEe to TAE0 values are obtained by scaling  harmonic DSD-PBEP86-D3BJ/aug’-cc-pV(Q+d)Z frequencies rather than from high-level ab initio anharmonic force field calculations as prescribed in the W4 protocol. These values should be treated with some caution.
+
+(c) In the accepted version of the manuscript this value was 545.734 kcal/mol due to an error in the scalar relativistic component. The incorrect scalar relativistic value was calculated at the CCSD(T)/AVTZ-DK level of theory. Using the correct CCSD(T)/AVQZ-DK scalar relativistic value results in a TAEe value of 546.928 kcal/mol. 
+
+
