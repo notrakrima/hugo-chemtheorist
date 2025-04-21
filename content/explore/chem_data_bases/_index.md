@@ -6,7 +6,7 @@ draft: false
 
 ## High-Level Chemical Databases <span style="font-weight: normal;">(CCSD(T) or higher)</span>
 
-### GDB9-W1-F12 Database  <span style="font-weight: normal; font-size: smaller;">(3,366 CCSD(T)/CBS TAEs from W1-F12 theory)</span>
+### GDB9-W1-F12 Database  <span style="font-weight: normal; font-size: smaller;">(3,366 CCSD(T)/CBS total atomization energies from W1-F12 theory)</span>
 GDB9-W1-F12 Paper:
 [[Download]](https://drive.google.com/uc?export=download&id=1YBLodWmUWQ6jIA9vmqro1qNowUQOPLkf)
 <br>
@@ -14,7 +14,7 @@ GDB9-W1-F12 Database:
 [[XYZ files]](/databases/GEOMs_3366_SI.tar.gz)
 [[Reference TAEs]](/databases/GDB9_W1-F12_SI_rev.csv)
 
-### W4-17 Database <span style="font-weight: normal; font-size: smaller;">(200 FCI/CBS TAEs from W4 theory or higher)</span>
+### W4-17 Database <span style="font-weight: normal; font-size: smaller;">(200 FCI/CBS total atomization energies from W4 theory or higher)</span>
 W4-17 Paper:
 [[Download]](https://drive.google.com/uc?export=download&id=1ZFZpoe3GVn-7F1yPQkYMm4g5mSxyHEJv)
 <br>
@@ -36,13 +36,29 @@ PAH335 Database:
 [[XYZ files]](/databases/PAH335_XYZ.tar.gz)
 <a href="/databases/PAH335_G4MP2_Ener.txt" download>[Reference PAH Isomerization Energies]</a>
 
-### BH28 Database  <span style="font-weight: normal; font-size: smaller;">(28 CCSDT(Q)/CBS TAEs from W3-F12 theory)</span>
+### C8H8 Database  <span style="font-weight: normal; font-size: smaller;">(44 CCSD(T)/CBS C8H8 isomerization energoes from W1-F12 theory)</span>
+C8H8 Paper:
+[[Download]](https://drive.google.com/uc?export=download&id=1NeS72vUiXZ_sGvo2ERDX8mKN65_ppp4D)
+<br>
+C8H8 Database:
+[[XYZ files]](/databases/C8H8_XYZ.tar.gz)
+<a href="/databases/C8H8_refs.txt" download>[Reference C8H8 Isomerization Energies]</a>
+
+### BH28 Database  <span style="font-weight: normal; font-size: smaller;">(28 CCSDT(Q)/CBS barrier heights from W3-F12 theory)</span>
 BH28 Paper:
 [[Download]](https://drive.google.com/uc?export=download&id=17GoLx5_ld_UNz1fl4kUqtL3HZNxrmXOm)
 <br>
-BH Database:
+BH28 Database:
 [[XYZ files]](/databases/bh28.zip)
-[[Reference TAEs]](/databases/bh28_ref.csv)
+[[Reference Barrier Heights]](/databases/bh28_ref.csv)
+
+### WCPT27 Database  <span style="font-weight: normal; font-size: smaller;">(27 CCSD(T)/CBS barrier heights from W2.2 theory)</span>
+WCPT27 Paper:
+[[Download]](https://drive.google.com/uc?export=download&id=1dWd-1tmMru7AXbMOGx_QixtuhoObtkKe)
+<br>
+WCPT27 Database:
+[[XYZ files]](/databases/Water_Cat_XYZ.tar.gz)
+<a href="/databases/Water_Cat_Refs.txt" download>[Reference Barrier Heights]</a>
 
 ### DBOC200 Database  <span style="font-weight: normal; font-size: smaller;">(212 CCSD/CBS DBOCs)</span>
 DBOC200 Paper:
@@ -56,4 +72,10 @@ DBOC12 Independent Test Set:
 [[XYZ files]](/databases/XYZ_DBOC12_SI.tar.gz)
 [[Reference DBOCs]](/databases/DBOC12_SI.csv)
 <br>
+
+
+
+
+
+
 

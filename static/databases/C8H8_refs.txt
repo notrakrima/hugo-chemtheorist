@@ -1,0 +1,54 @@
+Cite this as: 
+
+A. Karton, J. M. L. Martin. Explicitly correlated benchmark calculations on C8H8 isomer energy separations: How accurate are DFT, double-hybrid and composite ab initio procedures? Molecular Physics, 110, 2477–2491 (2012). 
+
+http://dx.doi.org/10.1080/00268976.2012.698316
+
+Reference energies 
+
+CCSD(T)/CBS isomerization energies (∆Eiso) from W1-F12 theory (kcal/mol).
+Filename ∆Eiso 
+1        0.00
+2        11.52
+3        18.42
+4        19.68
+5        20.39
+6        20.97
+7        24.85
+8        25.36
+9        28.00
+10       28.79
+11       36.08
+12       36.90
+13       37.09
+14       42.65
+15       43.71
+16       45.78
+17       47.62
+18       48.37
+19       48.43
+20       60.26
+21       60.92
+22       62.19
+23       63.39
+24       63.46
+26       67.83
+27       68.59
+28       70.99
+29       71.18
+30       72.50
+31       77.69
+32       78.92
+33       80.61
+34       81.82
+35       88.22
+36       88.29
+37       88.58
+38       91.88
+39       92.11
+40       96.95
+41       109.92
+42       115.49
+43       115.73
+44       116.00
+45       124.46
