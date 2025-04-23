@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="/css/custom.css"> 
   
   
-  <title>Lab Initio | Resources</title>
+  <title>Lab Initio | </title>
 
 <script>
   MathJax = {
@@ -52,28 +52,43 @@
 </header>
 
 <div id="content">
-  <div class="homepage-content"> 
-    
-    <hr> 
-    <h2 id="computational-chemistry-hub">Computational Chemistry Hub</h2>
-<ul>
-<li><strong><a href="/explore/chem_data_bases/">Chemical Databases</a>
-</strong></li>
-<li><strong><a href="/explore/wn_theory/">Wn Theories</a>
-</strong></li>
-<li><strong><a href="/explore/multiref_diag/">Multireference Diagnostics</a>
-</strong></li>
-<li><strong><a href="/explore/aust_comp_chem/">Australian Computational Chemistry Groups</a>
-</strong></li>
-<li><strong><a href="/explore/comp_chem_conf/">Computational Chemistry Conferences</a>
-</strong></li>
-<li><strong><a href="/explore/comp_chem_journals/">Computational Chemistry Journals</a>
-</strong></li>
-<li><strong><a href="http://localhost:1313/energy/">Energy Converter</a>
-</strong></li>
-</ul>
- 
-  </div>
+<article class="post">
+  <header>
+    <h1></h1>
+  </header>
+  <section class="post-content">
+    <h2 class="converter-title">Energy Unit Converter</h2>
+<p class="converter-subtitle">Based on latest CODATA fundamental constants</p>
+<form name="EnergyConverterForm" class="energy-converter-form">
+    <div class="converter-row">
+        <input type="text" name="H" id="conv-h" value="1" onChange="displayInfo(this.form,this.name);">
+        <label for="conv-h">Hartrees</label>
+    </div>
+    <div class="converter-row">
+        <input type="text" name="eV" id="conv-ev" value="" onChange="displayInfo(this.form,this.name);">
+        <label for="conv-ev">eV</label>
+    </div>
+    <div class="converter-row">
+        <input type="text" name="kJ/mol" id="conv-kjmol" value="" onChange="displayInfo(this.form,this.name);">
+        <label for="conv-kjmol">kJ mol<sup>-1</sup></label>
+    </div>
+    <div class="converter-row">
+        <input type="text" name="kcal/mol" id="conv-kcalmol" value="" onChange="displayInfo(this.form,this.name);">
+        <label for="conv-kcalmol">kcal mol<sup>-1</sup></label>
+    </div>
+    <div class="converter-row">
+        <input type="text" name="cm-1" id="conv-cm1" value="" onChange="displayInfo(this.form,this.name);">
+        <label for="conv-cm1">cm<sup>-1</sup></label>
+    </div>
+    <div class="converter-row">
+        <input type="text" name="K" id="conv-k" value="" onChange="displayInfo(this.form,this.name);">
+        <label for="conv-k">K</label>
+    </div>
+</form>
+<script src="/js/energy-converter.js"></script>
+
+  </section>
+</article>
 
         </div>
 

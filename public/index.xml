@@ -6,8 +6,15 @@
     <description>Recent content on Lab Initio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/energy/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/energy/</guid>
+      <description>&lt;h2 class=&#34;converter-title&#34;&gt;Energy Unit Converter&lt;/h2&gt;&#xA;&lt;p class=&#34;converter-subtitle&#34;&gt;Based on latest CODATA fundamental constants&lt;/p&gt;&#xA;&lt;form name=&#34;EnergyConverterForm&#34; class=&#34;energy-converter-form&#34;&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;H&#34; id=&#34;conv-h&#34; value=&#34;1&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-h&#34;&gt;Hartrees&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;eV&#34; id=&#34;conv-ev&#34; value=&#34;&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-ev&#34;&gt;eV&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;kJ/mol&#34; id=&#34;conv-kjmol&#34; value=&#34;&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-kjmol&#34;&gt;kJ mol&lt;sup&gt;-1&lt;/sup&gt;&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;kcal/mol&#34; id=&#34;conv-kcalmol&#34; value=&#34;&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-kcalmol&#34;&gt;kcal mol&lt;sup&gt;-1&lt;/sup&gt;&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;cm-1&#34; id=&#34;conv-cm1&#34; value=&#34;&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-cm1&#34;&gt;cm&lt;sup&gt;-1&lt;/sup&gt;&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;converter-row&#34;&gt;&#xA;        &lt;input type=&#34;text&#34; name=&#34;K&#34; id=&#34;conv-k&#34; value=&#34;&#34; onChange=&#34;displayInfo(this.form,this.name);&#34;&gt;&#xA;        &lt;label for=&#34;conv-k&#34;&gt;K&lt;/label&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/form&gt;&#xA;&lt;script src=&#34;http://localhost:1313/js/energy-converter.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
