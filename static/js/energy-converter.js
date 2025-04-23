@@ -104,18 +104,8 @@ var nfields = constants(conv); // Initialize conversion factors and get the numb
 document.addEventListener('DOMContentLoaded', function() {
     var energyForm = document.forms["EnergyConverterForm"];
     if (energyForm) {
-        // Set initial value (e.g., 1 Hartree)
-        const initialValue = 1;
-        const initialFieldName = fieldKeys[0]; // 'hartree'
-        if (energyForm.elements[initialFieldName]) {
-             energyForm.elements[initialFieldName].value = initialValue;
-             // Trigger calculation based on the initial value
-             displayInfo(energyForm, initialFieldName);
-        } else {
-             console.warn("Initial energy field 'hartree' not found.");
-        }
+        // Initial value setting logic removed
 
-        // Add event listeners to all fields using the keys
         fieldKeys.forEach(key => {
             const element = energyForm.elements[key];
             if (element) {
