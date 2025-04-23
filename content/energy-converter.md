@@ -2,6 +2,7 @@
 # title: "Energy Unit Converter"
 date: 2025-04-23
 draft: false
+slug: energy
 ---
 
 <h2 class="converter-title">Energy Unit Converter</h2>

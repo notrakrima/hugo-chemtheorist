@@ -12,7 +12,7 @@ draft: false
 *   **[Australian Computational Chemistry Groups](/explore/aust_comp_chem/)**
 *   **[Computational Chemistry Conferences](/explore/comp_chem_conf/)**
 *   **[Computational Chemistry Journals](/explore/comp_chem_journals/)**
-*   **[Energy Converter]({{< ref "energy.md" >}})**
+*   **[Energy Converter]({{< ref "energy-converter.md" >}})**
 
 
 
