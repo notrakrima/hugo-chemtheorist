@@ -11,7 +11,7 @@ slug: energy
 <form name="EnergyConverterForm" class="energy-converter-form">
     <div class="converter-row">
         <input type="text" name="H" id="conv-h" onChange="displayInfo(this.form,this.name);">
-        <label for="conv-h">Hartrees</label>
+        <label for="conv-h">Hartree</label>
     </div>
     <div class="converter-row">
         <input type="text" name="eV" id="conv-ev" value="" onChange="displayInfo(this.form,this.name);">

@@ -21,7 +21,7 @@ function constants(conv) {
 
     // Number of energy fields (Hartree, eV, kJ/mol, kcal/mol, cm-1, K)
     var numE = 6;
-          conv[0] = 1.00000000000000 ; // Hartrees
+          conv[0] = 1.00000000000000 ; // Hartree
           conv[1] = 27.2113862459810 ; // eV
           conv[2] = 2625.49963947916 ; // kJ/mol
           conv[3] = conv[2]/4.184 ; // kcal/mol
@@ -71,7 +71,7 @@ function displayInfo(form, fieldName) {
        return; // Stop calculation
    }
 
-   // calculate the base energy in Hartrees
+   // calculate the base energy in Hartree
    // Ensure conv[idx] is not zero to avoid division by zero
    energy = (conv[idx] && conv[idx] !== 0) ? inputValue / conv[idx] : 0;
 
@@ -97,7 +97,7 @@ function displayInfo(form, fieldName) {
 // --- MAIN SCRIPT EXECUTION ---
 
 // Global variable declarations
-var energy = 0.000; // Stores the current energy value in Hartrees
+var energy = 0.000; // Stores the current energy value in Hartree
 var conv = new Array(); // Array to hold conversion factors
 var nfields = constants(conv); // Initialize conversion factors and get the number of fields
 
