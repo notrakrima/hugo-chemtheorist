@@ -1,4 +1,16 @@
 // DEFINE METHODS
+const displayPrecision = {
+    hartree: 8,
+    ev: 8,
+    kjmol: 4,
+    kcalmol: 4,
+    cm: 3,
+    k: 3
+};
+
+// Map field indices (0-5) to the keys used in displayPrecision
+const fieldKeys = ['hartree', 'ev', 'kjmol', 'kcalmol', 'cm', 'k'];
+
 function constants(conv) {
     // Based on the following constants from CODATA
     // Eh	4.3597447222060E-21
@@ -21,7 +33,11 @@ function constants(conv) {
 function displayInfo(form, fieldName) {
    var idx;
    // find field index based on the input element's name
-   for (var i = 0; i < nfields; i++) { // Loop up to nfields (which is 6)
+   // Ensure nfields is correctly defined and accessible here (it should be from the global scope)
+   for (var i = 0; i < nfields; i++) {
+       // Assuming form elements correspond directly to indices 0 to nfields-1
+       // And that element names match the keys in displayPrecision (e.g., name="hartree", name="ev")
+       // A safer way might be to rely on the index 'i' directly if element order is guaranteed
        if (form.elements[i] && form.elements[i].name && form.elements[i].name == fieldName) {
            idx = i ;
            break;
@@ -29,42 +45,53 @@ function displayInfo(form, fieldName) {
    }
 
    if (typeof idx === 'undefined') {
-       console.error("Could not find field index for:", fieldName);
-       return;
+       // Fallback if name matching fails but order is known (less robust)
+       for (var i = 0; i < nfields; i++) {
+           if (form.elements[i] === document.activeElement) { // Check if it's the currently focused element
+               idx = i;
+               break;
+           }
+       }
+       if (typeof idx === 'undefined') {
+            console.error("Could not find field index for:", fieldName);
+            return;
+       }
    }
+
 
    // Get the input value and convert to a number
    var inputValue = parseFloat(form.elements[idx].value);
    if (isNaN(inputValue)) {
-       energy = 0;
-       inputValue = 0; // Treat invalid input as 0
+       // Clear other fields if input is invalid
+       for (var i = 0; i < nfields; i++) {
+           if (i !== idx && form.elements[i]) {
+               form.elements[i].value = "";
+           }
+       }
+       return; // Stop calculation
    }
 
    // calculate the base energy in Hartrees
-   energy = (conv[idx] !== 0) ? inputValue / conv[idx] : 0;
+   // Ensure conv[idx] is not zero to avoid division by zero
+   energy = (conv[idx] && conv[idx] !== 0) ? inputValue / conv[idx] : 0;
 
-   // convert to other units
+   // convert to other units and apply specific precision
    for (var i = 0; i < nfields; i++) {
        if ( i != idx ) { // Don't update the field that was just changed
            if (form.elements[i]) {
-                // Use formatToDecimalPlaces instead of trunc
-                form.elements[i].value = formatToDecimalPlaces(energy * conv[i], 12) ;
+                const key = fieldKeys[i]; // Get the key ('hartree', 'ev', etc.) for this index
+                const precision = displayPrecision[key]; // Get the desired precision from the object
+                const calculatedValue = energy * conv[i]; // Calculate the value
+
+                // Apply .toFixed() with the specific precision for this field
+                form.elements[i].value = calculatedValue.toFixed(precision);
            }
        }
    }
 }
 
-// Function to format a number to a fixed number of decimal places
-function formatToDecimalPlaces(num, places) {
-    if (isNaN(num)) {
-        return "NaN"; // Or handle as appropriate
-    }
-    if (!isFinite(num)) {
-        return num.toString(); // Handle Infinity/-Infinity
-    }
-    // Use toFixed() which handles rounding and decimal places directly
-    return num.toFixed(places);
-}
+// REMOVE THIS FUNCTION - it's no longer needed
+// function formatToDecimalPlaces(num, places) { ... }
 
 
 // --- MAIN SCRIPT EXECUTION ---
@@ -72,13 +99,33 @@ function formatToDecimalPlaces(num, places) {
 // Global variable declarations
 var energy = 0.000; // Stores the current energy value in Hartrees
 var conv = new Array(); // Array to hold conversion factors
-var nfields = constants(conv); // Initialize conversion factors and get the number of fields (should be 6 now)
+var nfields = constants(conv); // Initialize conversion factors and get the number of fields
 
 document.addEventListener('DOMContentLoaded', function() {
     var energyForm = document.forms["EnergyConverterForm"];
-    if (energyForm && energyForm.H) {
-        displayInfo(energyForm, energyForm.H.name);
+    if (energyForm) {
+        // Set initial value (e.g., 1 Hartree)
+        const initialValue = 1;
+        const initialFieldName = fieldKeys[0]; // 'hartree'
+        if (energyForm.elements[initialFieldName]) {
+             energyForm.elements[initialFieldName].value = initialValue;
+             // Trigger calculation based on the initial value
+             displayInfo(energyForm, initialFieldName);
+        } else {
+             console.warn("Initial energy field 'hartree' not found.");
+        }
+
+        // Add event listeners to all fields using the keys
+        fieldKeys.forEach(key => {
+            const element = energyForm.elements[key];
+            if (element) {
+                element.addEventListener('input', function() {
+                    displayInfo(energyForm, this.name);
+                });
+            }
+        });
+
     } else {
-        console.warn("Initial energy form 'EnergyConverterForm' or field 'H' not found on DOMContentLoaded.");
+        console.warn("Energy form 'EnergyConverterForm' not found on DOMContentLoaded.");
     }
 });

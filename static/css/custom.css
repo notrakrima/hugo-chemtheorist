@@ -268,3 +268,39 @@ hr {
     text-align: center;
     margin-bottom: 0.5em; /* Adjust spacing if needed */
 }
+
+
+/* Two-column layout for the Explore page */
+.explore-columns {
+  display: flex;
+  flex-wrap: wrap; /* Allows columns to stack on smaller screens if needed */
+  margin-top: 1.5em; /* Add some space below the main title/header */
+}
+
+.explore-column {
+  /* flex: 1; */     /* Remove or comment out this line */
+  flex: 0 1 auto; /* Prevent growing, allow shrinking, base width on content */
+  min-width: 250px; /* Minimum width before wrapping, adjust as needed */
+  padding: 0;       /* Ensure no internal padding adds space */
+  margin-right: 2em;/* Add space AFTER this column (adjust value as needed) */
+}
+
+/* Remove margin from the last column to prevent extra space on the right */
+.explore-column:last-child {
+  margin-right: 0;
+}
+
+/* Optional: Style the lists within the columns */
+.explore-column ul {
+  list-style: none; /* Removes default bullet points */
+  padding-left: 0; /* Removes default padding */
+}
+
+.explore-column li {
+  margin-bottom: 0.5em; /* Adds spacing between list items */
+}
+
+.explore-column h2 {
+    margin-bottom: 0.75em; /* Space below column titles */
+    /* Add any other specific styling for column titles if desired */
+}

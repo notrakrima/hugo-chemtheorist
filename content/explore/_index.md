@@ -1,18 +1,25 @@
 ---
-title: "Resources"
-date: 2024-02-21 # Or today's date
+title: "Explore" 
+date: 2024-02-21 
 draft: false
 ---
 
-## Computational Chemistry Hub
-
-*   **[Chemical Databases](/explore/chem_data_bases/)**
-*   **[Wn Theories](/explore/wn_theory/)**
-*   **[Multireference Diagnostics](/explore/multiref_diag/)**
-*   **[Australian Computational Chemistry Groups](/explore/aust_comp_chem/)**
-*   **[Computational Chemistry Conferences](/explore/comp_chem_conf/)**
-*   **[Computational Chemistry Journals](/explore/comp_chem_journals/)**
-*   **[Energy Converter]({{< ref "energy-converter.md" >}})**
-
-
-
+<div class="explore-columns">
+  <div class="explore-column">
+    <h2>Theory &amp; Tools</h2> 
+    <ul>
+      <li><strong><a href="{{< relref "/explore/chem_data_bases" >}}">Chemical Databases</a></strong></li>
+      <li><strong><a href="{{< relref "/explore/wn_theory" >}}">Wn Theories</a></strong></li>
+      <li><strong><a href="{{< relref "/explore/multiref_diag" >}}">Multireference Diagnostics</a></strong></li>
+      <li><strong><a href="{{< relref "/energy-converter.md" >}}">Energy Converter</a></strong></li> 
+    </ul>
+  </div>
+  <div class="explore-column">
+    <h2>Computational Chemistry Hub</h2> 
+    <ul>
+      <li><strong><a href="{{< relref "/explore/aust_comp_chem" >}}">Australian Computational Chemistry Groups</a></strong></li>
+      <li><strong><a href="{{< relref "/explore/comp_chem_conf" >}}">Computational Chemistry Conferences</a></strong></li>
+      <li><strong><a href="{{< relref "/explore/comp_chem_journals" >}}">Computational Chemistry Journals</a></strong></li>
+    </ul>
+  </div>
+</div>
