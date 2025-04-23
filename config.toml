@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = "https://labinitio.org/" 
 languageCode = 'en-us'
 title = 'Lab Initio'
 theme = 'netlify-basic' # Still using netlify-basic theme here
