@@ -10,7 +10,7 @@ draft = false
 
 **<a href="" download>224</a>**\. A. Karton, K. P. Gregory, B. Chan. How Perfluorination Alters PAH Stability: Benchmarking DFT with CCSD(T) Isomerization Energies of Perfluorinated PAHs. *Chemical Physics*, 595, 112712 (2025). <a href="https://doi.org/10.1016/j.chemphys.2025.112712" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.chemphys.2025.112712</a>
 
-**<a href="https://drive.google.com/uc?export=download&id=1YBLodWmUWQ6jIA9vmqro1qNowUQOPLkf" download>223</a>**\. A. Karton. Extensive DFT Benchmarking Using a Large Database of 3366 Total Atomization Energies at the CCSD(T)/CBS Level via W1-F12 Theory. *Chemical Physics Letters*, 868, 142030 (2025). <a href="https://doi.org/10.1016/j.cplett.2025.142030" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cplett.2025.142030</a>
+**<a href="https://drive.google.com/uc?export=download&id=1YBLodWmUWQ6jIA9vmqro1qNowUQOPLkf" download>223</a>**\. A. Karton. A highly diverse and accurate database of 3366 total atomization energies calculated at the CCSD(T)/CBS level by means of W1-F12 theory. *Chemical Physics Letters*, 868, 142030 (2025). <a href="https://doi.org/10.1016/j.cplett.2025.142030" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cplett.2025.142030</a>
 
 **<a href="https://drive.google.com/uc?export=download&id=1Ht5jHybWBUXSreP_N4BTFUCETAHSLu9U" download>222</a>**\. A. Karton. Three Decades of Quantum Science: How Quantum Chemistry Transformed Thermochemical Database Generation for Benchmarking DFT and Machine Learning. *Australian Journal of Chemistry*, Beckwith Review, 78, tbd (2025). <a href="https://doi.org/10.1071/CH24130" target="_blank" rel="noopener noreferrer">https://doi.org/10.1071/CH24130</a>
 
