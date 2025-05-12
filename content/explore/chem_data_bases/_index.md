@@ -36,6 +36,14 @@ PAH335 Database:
 [[XYZ files]](/databases/PAH335_XYZ.tar.gz)
 <a href="/databases/PAH335_G4MP2_Ener.txt" download>[Reference PAH Isomerization Energies]</a>
 
+### C40 Database  <span style="font-weight: normal; font-size: smaller;">(29 CCSD(T)/CBS C40 isomerization energoes from G4(MP2) theory)</span>
+C40 Paper:
+[[Download]](https://drive.google.com/uc?export=download&id=1_9vbyyfSTxDd85bbC1WemG-F9ca82aAU)
+<br>
+C40 Database:
+[[XYZ files]](/databases/C40_XYZ.tar.gz)
+<a href="/databases/C40_g4mp2_ref.csv" download>[Reference C40 Isomerization Energies]</a>
+
 ### C8H8 Database  <span style="font-weight: normal; font-size: smaller;">(44 CCSD(T)/CBS C8H8 isomerization energoes from W1-F12 theory)</span>
 C8H8 Paper:
 [[Download]](https://drive.google.com/uc?export=download&id=1NeS72vUiXZ_sGvo2ERDX8mKN65_ppp4D)
