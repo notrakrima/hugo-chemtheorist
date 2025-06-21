@@ -12,7 +12,7 @@ draft: false
   <li><strong><a href="{{< relref "/energy-converter" >}}">Energy Converter</a></strong></li> 
 </ul>
 
-<h2>Computational Chemistry Hub</h2> 
+<h2 style="margin-top: 2em;">Computational Chemistry Hub</h2> 
 <ul>
   <li><strong><a href="{{< relref "/explore/aust_comp_chem" >}}">Australian Computational Chemistry Groups</a></strong></li>
   <li><strong><a href="{{< relref "/explore/comp_chem_conf" >}}">Computational Chemistry Conferences</a></strong></li>

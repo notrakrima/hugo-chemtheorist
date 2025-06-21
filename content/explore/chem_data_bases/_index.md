@@ -28,6 +28,14 @@ W4-17 Database:<sup>a</sup>
 <br>
 <sup>a</sup>CCSD(T)/cc-pV(Q+d)Z optimized geometries (Cartesian coordinates, in Å)
 
+### W4-11-GEOM Database  <span style="font-weight: normal; font-size: smaller;">(122 CCSD(T)/CBS Geometries)</span>
+W4-11-GEOM Paper:
+[[Download]](https://drive.google.com/uc?export=download&id=11rnldFRSq-tCfAYVLpBs9ZMosClQgjQQ)
+<br>
+W4-11-GEOM Database:
+[[XYZ files]](/databases/w4-11-geom.tar.gz)
+<br>
+
 ### PAH335 Database  <span style="font-weight: normal; font-size: smaller;">(335 CCSD(T)/CBS PAH isomerization energoes from G4(MP2) theory)</span>
 PAH335 Paper:
 [[Download]](https://drive.google.com/uc?export=download&id=1ibUmqk_BWjwP1e4cQmL9SxMs5POb4a9G)
@@ -70,7 +78,7 @@ WCPT27 Database:
 
 ### DBOC200 Database  <span style="font-weight: normal; font-size: smaller;">(212 CCSD/CBS DBOCs)</span>
 DBOC200 Paper:
-[[Under review]]()
+[[Download]](https://drive.google.com/uc?export=download&id=1Tiyej6th4CWH4x41DQS313YiJD3wWRod)
 <br>
 DBOC200 Database:
 [[XYZ files]](/databases/XYZ_DBOC200_SI.tar.gz)
@@ -80,10 +88,4 @@ DBOC12 Independent Test Set:
 [[XYZ files]](/databases/XYZ_DBOC12_SI.tar.gz)
 [[Reference DBOCs]](/databases/DBOC12_SI.csv)
 <br>
-
-
-
-
-
-
 
