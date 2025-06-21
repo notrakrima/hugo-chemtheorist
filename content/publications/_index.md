@@ -8,6 +8,8 @@ draft = false
 
 ---
 
+**<a href="" download>225</a>**\. X. Ren, X. Sui, A. Karton, Y. Nishina, T. Lin, D. Asanoma, L. Owens, D. Ji, X. Wen, V. Quintano, K. Tripathi, K. K. Pant, L. Dai, D. V. Andreeva, T. Foller, K. S. Novoselov, R. Joshi. Synergetic hydrogen-bond network of functionalized graphene and cations for enhanced atmospheric water capture. *Proceedings of the National Academy of Sciences of the United States of America*, 122, e2508208122 (2025). <a href="https://doi.org/10.1073/pnas.2508208122" target="_blank" rel="noopener noreferrer">https://doi.org/10.1073/pnas.2508208122</a>
+
 **<a href="" download>224</a>**\. A. Karton, K. P. Gregory, B. Chan. How Perfluorination Alters PAH Stability: Benchmarking DFT with CCSD(T) Isomerization Energies of Perfluorinated PAHs. *Chemical Physics*, 595, 112712 (2025). <a href="https://doi.org/10.1016/j.chemphys.2025.112712" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.chemphys.2025.112712</a>
 
 **<a href="https://drive.google.com/uc?export=download&id=1YBLodWmUWQ6jIA9vmqro1qNowUQOPLkf" download>223</a>**\. A. Karton. A highly diverse and accurate database of 3366 total atomization energies calculated at the CCSD(T)/CBS level by means of W1-F12 theory. *Chemical Physics Letters*, 868, 142030 (2025). <a href="https://doi.org/10.1016/j.cplett.2025.142030" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cplett.2025.142030</a>
