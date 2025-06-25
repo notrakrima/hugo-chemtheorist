@@ -331,7 +331,7 @@ draft = false
 
 **<a href="https://drive.google.com/uc?export=download&id=12HwW9nAXLKsyjmchAZRY1qQLHW44h8GM" download>66</a>**\. W. Wan, L.-J. Yu, A. Karton. Mechanistic insights into water-catalysed formation of levoglucosenone from anhydrosugar intermediates by means of high-level theoretical procedures. *Australian Journal of Chemistry*, 69, 943–949 (2016). <a href="http://dx.doi.org/10.1071/CH16206" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1071/CH16206</a>
 
-**<a href="" download>65</a>**\. B. Chan, A. Karton, C. J. Easton, L. Radom. -Hydrogen abstraction by •OH and •SH radicals from amino acids and their peptide derivatives. *Journal of Chemical Theory and Computation*, 12, 1606–1613 (2016). <a href="http://dx.doi.org/10.1021/acs.jctc.6b00007" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1021/acs.jctc.6b00007</a>
+**<a href="" download>65</a>**\. B. Chan, A. Karton, C. J. Easton, L. Radom. alpha-Hydrogen abstraction by •OH and •SH radicals from amino acids and their peptide derivatives. *Journal of Chemical Theory and Computation*, 12, 1606–1613 (2016). <a href="http://dx.doi.org/10.1021/acs.jctc.6b00007" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1021/acs.jctc.6b00007</a>
 
 **<a href="https://drive.google.com/uc?export=download&id=1vIj_ALYdPggc9jJq2u-KlmOwltzTashO" download>64</a>**\. A. Karton. A computational chemist's guide to accurate thermochemistry for organic molecules. *Wiley Interdisciplinary Reviews. Computational Molecular Science*, 6, 292–310 (2016). [Selected for Journal Cover] [ISI Highly Cited Paper] <a href="http://dx.doi.org/10.1002/wcms.1249" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1002/wcms.1249</a>
 
