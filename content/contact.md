@@ -22,9 +22,11 @@ Australia
 *   **Map:** [View on Google Maps](https://g.co/kgs/sPZvg6a)
 
   </div>
-  <div class="contact-photo">
-    <img src="/images/amir-karton.jpg" alt="Prof. Amir Karton">
+
+  <div style="flex: 1; min-width: 200px;">
+    <img src="/images/amir-karton.jpg" alt="Prof. Amir Karton" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
+
 </div>
 
 ---
