@@ -21,6 +21,12 @@ Australia
 *   **W:** [https://www.une.edu.au/staff-profiles/science-and-technology/amir-karton](https://www.une.edu.au/staff-profiles/science-and-technology/amir-karton)
 *   **Map:** [View on Google Maps](https://g.co/kgs/sPZvg6a)
 
+  </div>
+  <div class="contact-photo">
+    <img src="/images/amir-karton.jpg" alt="Prof. Amir Karton">
+  </div>
+</div>
+
 ---
 
 ## Editorial Roles
