@@ -1,63 +1,9 @@
-<!DOCTYPE html>
-<html><head>
-	<meta name="generator" content="Hugo 0.146.3"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="/css/demo-styling.css">
-  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" /> 
-  <link rel="stylesheet" href="/css/custom.css"> 
-  
-  
-  <title>Lab Initio</title>
-
-<script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-    }
-  };
-</script>
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script" async></script>
-
-
-</head>
-<body><header class="site-header">
-  <div class="container">
-          <div class="logo">
-        
-        <a href="http://localhost:1313/">
-          <img src="/images/TopBanner2.jpg" alt="AI-Driven Quantum Chemistry Banner" class="header-banner"> 
-        </a> 
-      </div>
-<nav class="main-nav">
-      <ul>
-        
-        <li><a href="/">Home</a></li>
-        
-        <li><a href="/publications/">Publications</a></li>
-        <li><a href="/awards/">Awards</a></li>
-        <li><a href="/academic_profile/">Profile</a></li>
-        <li><a href="/editor/">Editor</a></li>
-        <li><a href="/explore/">Explore</a></li>
-        <li><a href="/contact/">Contact</a></li> 
-        
-      </ul>
-    </nav>
-  </div>
-</header>
-
-<div id="content">
+{{ define "main" }}
 
 <div class="homepage-content">
 
-  
-  <h1>Lab Initio</h1>
+  <!-- === Title and Introduction Section === -->
+  <h1>{{ .Site.Title }}</h1>
   <p class="tagline">The First Principles AI Engine for Chemical Discovery</p> 
   <hr>
   <div class="introduction">
@@ -67,15 +13,15 @@
   </div>
   <hr>
 
-  
-  
-  
+  <!-- ================================================================= -->
+  <!-- ============ SIDE-BY-SIDE NEWS & SLIDESHOW SECTION ============== -->
+  <!-- ================================================================= -->
   <div style="display: flex; align-items: flex-start; gap: 2rem; margin-top: 1.5rem;">
 
-    
+    <!-- News Column (Left Side) - NOW WITH CARDS -->
     <div style="flex: 0 0 40%;">
       
-      
+      <!-- Card 1: Microsoft News -->
       <div class="card" style="margin-bottom: 1.5rem;">
         <header class="card-header">
           <p class="card-header-title">
@@ -94,7 +40,7 @@
         </div>
       </div>
 
-      
+      <!-- Card 2: Clean Water News -->
       <div class="card">
         <header class="card-header">
           <p class="card-header-title">
@@ -114,7 +60,7 @@
 
     </div>
 
-    
+    <!-- Slideshow Column (Right Side) -->
     <div style="flex: 1 1 60%; min-width: 0;">
       <div style="position: relative;">
         <div class="swiper-container hero-slideshow">
@@ -148,39 +94,8 @@
       </div>
     </div>
 
-  </div> 
+  </div> <!-- End of flex container div -->
 
-</div> 
+</div> <!-- End of homepage-content div -->
 
-
-        </div>
-
-        
-        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-
-        
-        <script>
-          var swiper = new Swiper('.hero-slideshow', {
-            
-            loop: true, 
-            autoplay: { 
-              delay: 5000, 
-              disableOnInteraction: false, 
-            },
-            
-            
-            pagination: {
-              el: '.swiper-pagination',
-              clickable: true,
-            },
-
-            
-            navigation: {
-              nextEl: '.swiper-button-next',
-              prevEl: '.swiper-button-prev',
-            },
-          });
-        </script>
-        
-    </body>
-</html>
+{{ end }}
