@@ -53,13 +53,13 @@
     <loc>http://localhost:1313/test/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/join/</loc>
+  </url><url>
     <loc>http://localhost:1313/awards/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/editor/</loc>
-  </url><url>
-    <loc>http://localhost:1313/join/</loc>
   </url><url>
     <loc>http://localhost:1313/people/</loc>
   </url><url>
