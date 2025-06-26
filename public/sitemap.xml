@@ -59,6 +59,8 @@
   </url><url>
     <loc>http://localhost:1313/editor/</loc>
   </url><url>
+    <loc>http://localhost:1313/join/</loc>
+  </url><url>
     <loc>http://localhost:1313/people/</loc>
   </url><url>
     <loc>http://localhost:1313/platform/</loc>

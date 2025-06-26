@@ -9,3 +9,44 @@ theme = 'netlify-basic'
 # Allow raw HTML rendering in markdown files
 [markup.goldmark.renderer]
   unsafe = true
+
+# Main menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 20
+
+[[menu.main]]
+  name = "Awards"
+  url = "/awards/"
+  weight = 30
+
+[[menu.main]]
+  name = "Profile"
+  url = "/profile/"
+  weight = 40
+
+[[menu.main]]
+  name = "Editor"
+  url = "/editor/"
+  weight = 50
+
+[[menu.main]]
+  name = "Explore"
+  url = "/explore/"
+  weight = 60
+
+[[menu.main]]
+  name = "Join"
+  url = "/join/"
+  weight = 70
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 80
