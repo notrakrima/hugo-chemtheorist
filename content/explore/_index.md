@@ -4,12 +4,17 @@ date: 2024-02-21
 draft: false
 ---
 
-<h2>Theory &amp; Tools</h2> 
+<h2>Theory</h2> 
 <ul>
   <li><strong><a href="{{< relref "/explore/chem_data_bases" >}}">Chemical Databases</a></strong></li>
   <li><strong><a href="{{< relref "/explore/wn_theory" >}}">Wn Theories</a></strong></li>
   <li><strong><a href="{{< relref "/explore/multiref_diag" >}}">Multireference Diagnostics</a></strong></li>
-  <li><strong><a href="{{< relref "/energy-converter" >}}">Energy Converter</a></strong></li> 
+</ul>
+
+<h2>Tools</h2>
+<ul>
+  <li><strong><a href="{{< relref "/visualizer" >}}">Molecular Visualizer</a></strong></li>
+  <li><strong><a href="{{< relref "/energy-converter" >}}">Energy Converter</a></strong></li>
 </ul>
 
 <h2 style="margin-top: 2em;">Computational Chemistry Hub</h2> 
