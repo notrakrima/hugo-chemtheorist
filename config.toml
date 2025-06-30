@@ -42,11 +42,16 @@ theme = 'netlify-basic'
   weight = 60
 
 [[menu.main]]
+  name = "XYZ"
+  url = "/xyzview/"
+  weight = 70
+
+[[menu.main]]
   name = "Join"
   url = "/join/"
-  weight = 70
+  weight = 80
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 80
+  weight = 90

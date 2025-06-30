@@ -13,7 +13,7 @@ draft: false
 
 <h2>Tools</h2>
 <ul>
-  <li><strong><a href="{{< relref "/visualizer" >}}">Molecular Visualizer</a></strong></li>
+  <li><strong><a href="{{< relref "/xyzview" >}}">Molecular Visualizer</a></strong></li>
   <li><strong><a href="{{< relref "/energy-converter" >}}">Energy Converter</a></strong></li>
 </ul>
 
