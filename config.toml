@@ -28,7 +28,7 @@ theme = 'netlify-basic'
 
 [[menu.main]]
   name = "Profile"
-  url = "/profile/"
+  url = "/academic_profile/"
   weight = 40
 
 [[menu.main]]
