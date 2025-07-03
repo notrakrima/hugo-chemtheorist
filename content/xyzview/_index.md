@@ -1,6 +1,6 @@
 ---
 title: "Molecular Visualizer"
-date: 2024-07-29T12:00:00+10:00
+date: 2025-06-29T12:00:00+10:00
 draft: false
 description: "A free, interactive online tool to visualize molecules from XYZ, SDF, or MOL coordinate data. Paste your data and instantly view a 3D model with support for multiple bonds."
 ---

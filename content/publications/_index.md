@@ -1,6 +1,6 @@
 +++
 title = "Publications"
-date = 2024-07-30T12:00:00Z # You can adjust the date if needed
+date = 2025-07-30T12:00:00Z 
 draft = false
 +++
 
@@ -17,7 +17,7 @@ draft = false
 
 **<a href="https://drive.google.com/uc?export=download&id=1YBLodWmUWQ6jIA9vmqro1qNowUQOPLkf" download>223</a>**\. A. Karton. A highly diverse and accurate database of 3366 total atomization energies calculated at the CCSD(T)/CBS level by means of W1-F12 theory. *Chemical Physics Letters*, 868, 142030 (2025). <a href="https://doi.org/10.1016/j.cplett.2025.142030" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cplett.2025.142030</a>
 
-**<a href="https://drive.google.com/uc?export=download&id=1Ht5jHybWBUXSreP_N4BTFUCETAHSLu9U" download>222</a>**\. A. Karton. Three Decades of Quantum Science: How Quantum Chemistry Transformed Thermochemical Database Generation for Benchmarking DFT and Machine Learning. *Australian Journal of Chemistry*, Beckwith Review, 78, tbd (2025). <a href="https://doi.org/10.1071/CH24130" target="_blank" rel="noopener noreferrer">https://doi.org/10.1071/CH24130</a>
+**<a href="https://drive.google.com/uc?export=download&id=1Ht5jHybWBUXSreP_N4BTFUCETAHSLu9U" download>222</a>**\. A. Karton. Three Decades of Quantum Science: How Quantum Chemistry Transformed Thermochemical Database Generation for Benchmarking DFT and Machine Learning. *Australian Journal of Chemistry*, Beckwith Review, 78, CH24130 (2025). <a href="https://doi.org/10.1071/CH24130" target="_blank" rel="noopener noreferrer">https://doi.org/10.1071/CH24130</a>
 
 **<a href="" download>221</a>**\. S. Shekhar, K. Tripathi, A. Karton, S. Roy, R. Joshi, K. K. Pant. Influence of Ni on Carbon Nanotube Production with Fe-Based Catalysts. *Chemical Communications*, 61, 2063 (2025). <a href="https://doi.org/10.1039/d4cc05698a" target="_blank" rel="noopener noreferrer">https://doi.org/10.1039/d4cc05698a</a>
 

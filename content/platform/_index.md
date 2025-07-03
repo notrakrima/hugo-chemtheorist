@@ -1,5 +1,6 @@
 ---
 title: "Platform"
+date: 2025-06-15T00:00:00+00:00
 ---
 
 ## The Lab Initio Engine: Integrating Simulation, AI, and Robotics
