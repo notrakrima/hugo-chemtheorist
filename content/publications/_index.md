@@ -1,8 +1,8 @@
----
++++
 title = "Publications"
 date = 2025-06-30T12:00:00Z 
 draft = false
----
++++
 
 # Peer-Reviewed Publications
 
