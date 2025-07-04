@@ -13,9 +13,9 @@ draft: false
 | **ACS**           | [Journal of Chemical Theory and Computation]                     | 5.7                      |
 |                   | [Journal of Chemical Information and Modeling]                   | 5.7                      |
 |                   | [Journal of Physical Chemistry Letters]                          | 4.9                      |
-|                   | [Journal of Physical Chemistry C]                                | 3.3                      |
-|                   | [Journal of Physical Chemistry B]                                | 2.8                      |
 |                   | [Journal of Physical Chemistry A]                                | 2.7                      |
+|                   | [Journal of Physical Chemistry B]                                | 2.8                      |
+|                   | [Journal of Physical Chemistry C]                                | 3.3                      |
 |                   | [Journal of Chemical & Engineering Data]                         | 2.1                      |
 | **Wiley**         | [Wiley Interdisciplinary Reviews: Computational Molecular Science] | 16.8                     |
 |                   | [Journal of Computational Chemistry]                             | 3.4                      |
@@ -57,12 +57,12 @@ draft: false
 |                   | [Data in Brief]                                  | 1.4                      |
 
 
-[Journal of Chemical Theory and Computation]: https://pubs.acs.org/journal/jctc
+[Journal of Chemical Theory and Computation]: https://pubs.acs.org/journal/jctcce
 [Journal of Chemical Information and Modeling]: https://pubs.acs.org/journal/jcisd8
 [Journal of Physical Chemistry Letters]: https://pubs.acs.org/journal/jpclcd
-[Journal of Physical Chemistry C]: https://pubs.acs.org/journal/jpccfh
-[Journal of Physical Chemistry B]: https://pubs.acs.org/journal/jpcbfh
 [Journal of Physical Chemistry A]: https://pubs.acs.org/journal/jpcafh
+[Journal of Physical Chemistry B]: https://pubs.acs.org/journal/jpcbfk
+[Journal of Physical Chemistry C]: https://pubs.acs.org/journal/jpccck
 [Journal of Chemical & Engineering Data]: https://pubs.acs.org/journal/jceaax
 [Journal of Chemical Physics]: https://aip.scitation.org/journal/jcp
 [Physical Chemistry Chemical Physics (PCCP)]: https://www.rsc.org/journals-books-databases/about-journals/pccp/
