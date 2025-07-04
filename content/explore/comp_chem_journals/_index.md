@@ -6,9 +6,9 @@ draft: false
 
 ## Journals that regularly publish computational chemistry articles:
 
-*(Disclaimer: Impact Factors (IF) are based on JCR 2023 data and change annually. They are just one metric for journal evaluation.)*
+*(Disclaimer: Impact Factors are based on 2023 or 2024 data. They change annually and are not the sole indicator of a journal's quality or reputation.)*
 
-| Publisher         | Journal Name                                                     | IF (JCR 2023) |
+| Publisher         | Journal Name                                                     | IF  |
 | :---------------- | :--------------------------------------------------------------- | :----------------------- |
 | **ACS**           | [Journal of Chemical Theory and Computation]                     | 5.7                      |
 |                   | [Journal of Chemical Information and Modeling]                   | 5.7                      |
@@ -16,7 +16,7 @@ draft: false
 |                   | [Journal of Physical Chemistry C]                                | 3.3                      |
 |                   | [Journal of Physical Chemistry B]                                | 2.8                      |
 |                   | [Journal of Physical Chemistry A]                                | 2.7                      |
-|                   | [Journal of Chemical & Engineering Data]                         | 2.0                      |
+|                   | [Journal of Chemical & Engineering Data]                         | 2.1                      |
 | **Wiley**         | [Wiley Interdisciplinary Reviews: Computational Molecular Science] | 16.8                     |
 |                   | [Journal of Computational Chemistry]                             | 3.4                      |
 |                   | [Advanced Theory and Simulations]                                | 2.9                      |
@@ -40,6 +40,22 @@ draft: false
 |                   | [Theoretical Chemistry Accounts]                                 | 1.6                      |
 | **AIP**           | [Journal of Chemical Physics]                                    | 3.1                      |
 | **RSC**           | [Physical Chemistry Chemical Physics (PCCP)]                     | 2.9                      |
+
+<br>
+<br>
+<br>
+
+## Scientific Data Journals:
+
+| Publisher         | Journal Name                                     | IF  |
+| :---------------- | :----------------------------------------------- | :----------------------- |
+| **Nature**        | [Nature Scientific Data]                         | 6.9                      |
+| **Springer**      | [Journal of Cheminformatics]                     | 5.7                      |
+| **ACS**           | [Journal of Chemical Information and Modeling]   | 5.7                      |
+|                   | [Journal of Chemical & Engineering Data]         | 2.1                      |
+| **Elsevier**      | [Chemical Data Collections]                      | 2.7                      |
+|                   | [Data in Brief]                                  | 1.4                      |
+
 
 [Journal of Chemical Theory and Computation]: https://pubs.acs.org/journal/jctc
 [Journal of Chemical Information and Modeling]: https://pubs.acs.org/journal/jcisd8
@@ -71,4 +87,9 @@ draft: false
 [Structural Chemistry]: https://www.springer.com/journal/11224
 [Journal of Molecular Modeling]: https://www.springer.com/journal/894
 [Theoretical Chemistry Accounts]: https://www.springer.com/journal/214
+[Nature Scientific Data]: https://www.nature.com/sdata/
+[Chemical Data Collections]: https://www.sciencedirect.com/journal/chemical-data-collections
+[Data in Brief]: https://www.sciencedirect.com/journal/data-in-brief
+[Journal of Cheminformatics]: https://jcheminf.biomedcentral.com/
+
 
