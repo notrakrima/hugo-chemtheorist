@@ -45,7 +45,7 @@ draft: false
 <br>
 <br>
 
-## Scientific Data Journals:
+## Chemical Data Journals:
 
 | Publisher         | Journal Name                                     | IF  |
 | :---------------- | :----------------------------------------------- | :----------------------- |
