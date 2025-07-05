@@ -21,11 +21,6 @@ date: 2025-06-15T00:00:00+00:00
 </div>
 </div>
 
-
-A cornerstone of chemical physics since 1967. Join the CPL community and submit your next manuscript
-
-
-
 I am an Editor of *Chemical Physics Letters*, which specializes in the rapid publication of short communications in the broad field of chemical physics. *Chem. Phys. Lett.* publishes novel experimental results, and significant theoretical developments across all areas of chemical physics, molecular physics, and physical chemistry. Its focus on speed and significance makes it a key outlet for timely dissemination of cutting-edge research.
 
 **Relevant Links:**
