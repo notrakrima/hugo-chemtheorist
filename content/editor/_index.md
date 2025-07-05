@@ -17,9 +17,13 @@ date: 2025-06-15T00:00:00+00:00
 <div style="float: left; width: 48%;">
     <p><strong>We are thrilled to announce that the 2024 Impact Factor for <em>Chemical Physics Letters</em> has risen to 3.1</strong>!</p>
     <p>This achievement is a result of the high-quality work from our authors and the diligent work of our reviewers and readers. A huge thank you to everyone in the CPL community!</p>
-    <p>Join the growing CPL community. <strong><a href="https://tinyurl.com/bp7sf7db" target="_blank" rel="noopener">Submit your next manuscript to CPL</a></strong>.</p>
+    <p>Join the CPL community that has been continuously growing since 1967. <strong><a href="https://tinyurl.com/bp7sf7db" target="_blank" rel="noopener">Submit your next manuscript to CPL</a></strong>.</p>
 </div>
 </div>
+
+
+A cornerstone of chemical physics since 1967. Join the CPL community and submit your next manuscript
+
 
 
 I am an Editor of *Chemical Physics Letters*, which specializes in the rapid publication of short communications in the broad field of chemical physics. *Chem. Phys. Lett.* publishes novel experimental results, and significant theoretical developments across all areas of chemical physics, molecular physics, and physical chemistry. Its focus on speed and significance makes it a key outlet for timely dissemination of cutting-edge research.
