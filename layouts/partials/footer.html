@@ -1,0 +1,25 @@
+<footer style="padding: 40px 20px; text-align: center; font-size: 0.9em; color: #555;">
+    <hr style="border: 0; border-top: 1px solid #eee; margin-bottom: 20px;">
+
+    <!-- Flex container for logo and main copyright -->
+    <div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+        <img src="/images/labinitio-logo.svg" alt="Lab Initio Logo" style="height: 35px; width: auto;">
+        <span>
+            {{ $startYear := 2013 }}
+            {{ $currentYear := now.Year }}
+            © 
+            {{ if ne $currentYear $startYear }}
+                {{ $startYear }}–{{ $currentYear }}
+            {{ else }}
+                {{ $currentYear }}
+            {{ end }}
+            Lab Initio.
+        </span>
+    </div>
+
+    <!-- Clean, text-only Creative Commons License Notice -->
+    <div style="margin-top: 15px; font-size: 0.9em;">
+        Content on this site is licensed under a 
+        <a href="http://creativecommons.org/licenses/by/4.0/" rel="license" style="text-decoration: underline; color: #555;">CC BY 4.0</a>.
+    </div>
+</footer>
