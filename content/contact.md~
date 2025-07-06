@@ -1,0 +1,52 @@
+---
+title: "Contact"
+date: 2025-01-15
+draft: false
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
+
+    <!-- Left Column: Image -->
+    <div style="flex: 1; min-width: 250px; text-align: center;">
+        <img src="/images/amir-karton.jpg" alt="Prof. Amir Karton" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </div>
+
+    <!-- Right Column: Contact Details -->
+    <div style="flex: 2; min-width: 300px;">
+        <h3>Prof. Amir Karton</h3>
+        <p style="margin-bottom: 1rem;">
+            Professor of Physical and Materials Chemistry<br>
+            Associate Dean of Research<br>
+            Faculty of Science, Agriculture, Business and Law<br>
+            University of New England<br>
+            Australia
+        </p>
+        <p style="margin-bottom: 1rem;">
+            <strong>Riggs Building (Office 2.08)</strong><br>
+            8 Chemistry Rd<br>
+            School of Science and Technology<br>
+            University of New England<br>
+            Armidale NSW 2351<br>
+            Australia
+        </p>
+        <p>
+            <strong>T:</strong> <a href="tel:+61267735528">+61 2 6773 5528</a><br>
+            <strong>E:</strong> <a href="mailto:amir.karton@une.edu.au">amir.karton@une.edu.au</a><br>
+            <strong>W:</strong> <a href="https://www.une.edu.au/staff-profiles/science-and-technology/amir-karton" target="_blank" rel="noopener noreferrer">UNE Staff Profile</a><br>
+            <strong>Map:</strong> <a href="https://g.co/kgs/sPZvg6a" target="_blank" rel="noopener noreferrer">View on Google Maps</a>
+        </p>
+    </div>
+</div>
+
+<hr>
+
+## Editorial Roles
+
+*   Editor, Chemical Physics Letters (Elsevier)
+*   Editor, Australian Journal of Chemistry (CSIRO)
+
+<hr>
+
+## UNE Campus
+
+<img src="/images/une.jpg" alt="University of New England Campus" title="UNE Campus" style="width: 100%; max-width: 800px; height: auto; display: block; margin: 1rem auto; border-radius: 8px;">

@@ -6,6 +6,10 @@ theme = 'netlify-basic'
 [params]
   math = true
 
+# Allow raw HTML rendering in markdown files
+[markup.goldmark.renderer]
+  unsafe = true
+
 # Main menu
 [[menu.main]]
   name = "Home"
@@ -52,8 +56,8 @@ theme = 'netlify-basic'
   url = "/contact/"
   weight = 90
 
-# This is the single, correct block for markup settings.
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
