@@ -131,7 +131,7 @@ Australia is a global leader in the field of computational chemistry with over 7
 
 *   [Debra Bernhardt](http://www.aibn.uq.edu.au/debra-bernhardt)
 *   [Megan O'Marra](https://scholar.google.com.au/citations?user=9lJquJQAAAAJ&hl=en)
-*   [Elizabeth Krenske](https://scmb.uq.edu.au/profile/999/elizabeth-krenske)
+*   [Elizabeth Krenske](https://about.uq.edu.au/experts/1018)
 *   [Evelyne Deplazes](https://scmb.uq.edu.au/profile/1443/evelyne-deplazes)
 *   [Alan Mark](https://scholar.google.com.au/citations?user=tAF8fQQAAAAJ&hl=en)
 

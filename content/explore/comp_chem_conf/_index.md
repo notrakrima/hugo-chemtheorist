@@ -8,14 +8,13 @@ draft: false
 
 ### 2025
 
-*   [Australian Winter School on Computational Chemistry, Kiama, July 7-10](https://sites.google.com/view/awscc2025/home)
-*   [13th Triennial Congress of the World Association of Theoretical and Computational Chemists (WATOC), Oslo, Norway, June 22–27](https://www.watoc2025.no/)
 *   [MM2025, RMIT University, Melbourne, Australia, December 8-10]()
 *   [Pacifichem 2025, Honolulu, USA, Dec 15–20.](https://pacifichem.org/)
 
 ### 2026
 
-*   [18th International Congress of Quantum Chemistry (ICQC)](https://icqc2026.org/)
+*   [International Conference on Sustainable Nanomaterials Integration & Organization for Energy and Environment (iSNIOE2), Shiv Nadar Institution of Eminence, Delhi, India, Jan 19 -- 22](https://isnioe2.com/)
+*   [18th International Congress of Quantum Chemistry (ICQC), Berkeley, California, USA, May 31 -- June 6](https://icqc2026.org/)
 
 ### 2027
 
