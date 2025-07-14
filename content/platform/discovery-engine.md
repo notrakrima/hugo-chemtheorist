@@ -3,7 +3,7 @@ title: "The AI-Discovery Engine"
 date: 2025-06-22
 ---
 
-Our AI-Discovery Engine is not a single tool, but a powerful, closed-loop system that integrates predictive simulation, artificial intelligence, and automated robotics. This "Discovery Flywheel" creates a synergistic feedback loop that dramatically shortens the design-test-learn cycle, turning complex R&D challenges into market-ready solutions with unprecedented speed.
+Our AI-Discovery Engine is a powerful, closed-loop system integrating predictive simulation, AI, and automated robotics. We call it the Discovery Flywheel—a synergistic process that dramatically shortens the design-test-learn cycle and delivers market-ready solutions with unprecedented speed.
 
 ## How It Works: The Discovery Flywheel
 

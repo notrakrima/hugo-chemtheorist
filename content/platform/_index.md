@@ -60,6 +60,13 @@ date: 2025-06-21
     font-weight: bold;
     text-decoration: underline;
   }
+  .team-section {
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  margin-bottom: 3rem;
+  }
 </style>
 
 <div class="platform-hero">
@@ -79,7 +86,7 @@ date: 2025-06-21
 <div class="card-container">
   <div class="card">
     <h3>The AI-Discovery Engine</h3>
-    <p>Our integrated platform combines predictive quantum simulation with a $2.7M national robotics network, creating a powerful feedback loop to solve complex R&D challenges with unprecedented speed.</p>
+    <p>Our platform unifies predictive quantum simulation with a $2.7M national robotics network. This creates a powerful design-build-test-learn cycle, solving complex R&D challenges with unprecedented speed.</p>
     <a href="/platform/discovery-engine/">Learn More &rarr;</a>
   </div>
   <div class="card">
@@ -94,19 +101,32 @@ date: 2025-06-21
 <div class="card-container">
   <div class="card">
     <h3>E-Waste & Critical Materials Recovery</h3>
-    <p>Unlock value from complex waste streams. We design processes to efficiently recover precious metals and recycle components from solar panels and batteries.</p>
+    <p><strong>Maximize value from complex waste streams.</strong> We design and optimize processes to <i>recover critical materials</i> and recycle high-value components from solar panels and e-waste.</p>
   </div>
   <div class="card">
     <h3>Biofuel & Biowaste Valorization</h3>
     <p>Transform agricultural and industrial waste into high-value fuels and chemicals. Our platform rapidly optimizes conversion pathways for maximum yield and efficiency.</p>
   </div>
+
+  <div class="card">
+    <h3>Green Ammonia & Sustainable Fertilizers</h3>
+    <p>Revolutionize agriculture by decarbonizing one of the world's most energy-intensive industrial processes. Our platform designs novel catalysts that mimic nature, enabling the low-energy production of green ammonia for carbon-neutral fertilizers.</p>
+  </div>
+
   <div class="card">
     <h3>Custom Sustainable Chemistry</h3>
     <p>Have a different challenge? Our engine is adaptable. Let's design a custom solution for your unique materials or process development needs.</p>
   </div>
 </div>
 
+## The Team
+<div class="team-section">
+  <h3>The Experts Behind the Engine</h3>
+  <p>Lab Initio is driven by a multidisciplinary team of world-leading experts in quantum chemistry, artificial intelligence, software engineering, and automated robotics. This unique fusion of talent is what allows us to translate fundamental scientific breakthroughs into practical, industrial-scale solutions.</p>
+  <a href="/platform/team/" class="btn btn-secondary">Meet Our Experts</a>
+</div>
+
 <div class="final-cta">
-  <h2>Ready to build the future of sustainable chemistry?</h2>
-  <p><a href="/platform/partner-with-us/">Partner with us and let's get started.</a></p>
+  <h2>Ready to solve your most ambitious challenge?</h2>
+  <p><a href="/platform/partner-with-us/">Partner with us to accelerate your sustainable innovation.</a></p>
 </div>
