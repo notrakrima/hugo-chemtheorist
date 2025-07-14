@@ -67,8 +67,8 @@ date: 2025-06-24
   <h3>Supporting Evidence:</h3>
   <ul>
     <li><a href="https://doi.org/10.1073/pnas.2508208122" target="_blank" rel="noopener noreferrer">PNAS Publication &rarr;</a></li>
-    <li><a href="https://www.unsw.edu.au/newsroom/news/2025/08/graphene-key-to-new-water-capture-tech" target="_blank" rel="noopener noreferrer">UNSW Media Release &rarr;</a></li>
-    <li><a href="https://www.une.edu.au/connect/news/2025/08/researchers-unlock-graphenes-potential-to-harvest-water-from-air" target="_blank" rel="noopener noreferrer">UNE Media Release &rarr;</a></li>
+    <li><a href="https://www.unsw.edu.au/news/2025/06/light-as-a-feather-nanomaterial-extracts-drinking-water-from-air" target="_blank" rel="noopener noreferrer">UNSW Media Release &rarr;</a></li>
+    <li><a href="https://www.une.edu.au/about-une/news-and-events/news/2025/06/light-as-a-feather-nanomaterial-extracts-drinking-water-from-air" target="_blank" rel="noopener noreferrer">UNE Media Release &rarr;</a></li>
   </ul>
 </div>
 
