@@ -39,7 +39,7 @@ W4-11-GEOM Database:
 [[XYZ files]](/databases/w4-11-geom.tar.gz)
 <br>
 
-### PAH335 Database  <span style="font-weight: normal; font-size: smaller;">(335 CCSD(T)/CBS PAH isomerization energoes from G4(MP2) theory)</span>
+### PAH335 Database  <span style="font-weight: normal; font-size: smaller;">(335 CCSD(T)/CBS PAH isomerization energies from G4(MP2) theory)</span>
 PAH335 Paper:
 [[Download]](https://drive.google.com/uc?export=download&id=1ibUmqk_BWjwP1e4cQmL9SxMs5POb4a9G)
 <br>

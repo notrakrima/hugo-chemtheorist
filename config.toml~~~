@@ -1,0 +1,95 @@
+baseURL = "https://labinitio.org/" 
+languageCode = 'en-us'
+title = 'Lab Initio'
+theme = 'netlify-basic'
+
+[params]
+  math = true
+
+# Main menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 20
+
+[[menu.main]]
+  name = "Awards"
+  url = "/awards/"
+  weight = 30
+
+[[menu.main]]
+  name = "Profile"
+  url = "/academic_profile/"
+  weight = 40
+
+[[menu.main]]
+  name = "Editor"
+  url = "/editor/"
+  weight = 50
+
+[[menu.main]]
+  name = "Explore"
+  url = "/explore/"
+  weight = 60
+
+[[menu.main]]
+  name = "XYZ"
+  url = "/xyzview/"
+  weight = 70
+
+[[menu.main]]
+  name = "Join"
+  url = "/join/"
+  weight = 80
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 90
+
+# ---------------------------------------------------------------------------
+# The new Platform section for industry engagement
+# ---------------------------------------------------------------------------
+
+# Main menu item
+[[main]]
+  name = "Platform"
+  url = "/platform/"
+  weight = 30
+  identifier = "platform" # This is crucial for the dropdown menu
+
+# Sub-menu items
+[[main]]
+  name = "AI Breakthrough"
+  url = "/platform/ai-breakthrough/"
+  weight = 10
+  parent = "platform"
+
+[[main]]
+  name = "The Discovery Engine"
+  url = "/platform/discovery-engine/"
+  weight = 20
+  parent = "platform"
+
+[[main]]
+  name = "Solutions & Case Studies"
+  url = "/platform/solutions/"
+  weight = 30
+  parent = "platform"
+
+[[main]]
+  name = "Partner With Us"
+  url = "/platform/partner-with-us/"
+  weight = 40
+  parent = "platform"
+
+# This is the single, correct block for markup settings.
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

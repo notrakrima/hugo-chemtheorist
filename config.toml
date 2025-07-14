@@ -6,7 +6,10 @@ theme = 'netlify-basic'
 [params]
   math = true
 
-# Main menu
+# ===========================================================================
+# Main Navigation Menu (using theme-compatible syntax)
+# ===========================================================================
+
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -16,6 +19,36 @@ theme = 'netlify-basic'
   name = "Publications"
   url = "/publications/"
   weight = 20
+
+[[menu.main]]
+  name = "AI"
+  url = "/platform/"
+  weight = 25 # Adjusted weight to place it after Publications
+  identifier = "platform"
+
+[[menu.main]]
+  name = "AI Breakthrough"
+  url = "/platform/ai-breakthrough/"
+  weight = 10
+  parent = "platform"
+
+[[menu.main]]
+  name = "The Discovery Engine"
+  url = "/platform/discovery-engine/"
+  weight = 20
+  parent = "platform"
+
+[[menu.main]]
+  name = "Solutions & Case Studies"
+  url = "/platform/solutions/"
+  weight = 30
+  parent = "platform"
+
+[[menu.main]]
+  name = "Partner With Us"
+  url = "/platform/partner-with-us/"
+  weight = 40
+  parent = "platform"
 
 [[menu.main]]
   name = "Awards"
@@ -52,7 +85,10 @@ theme = 'netlify-basic'
   url = "/contact/"
   weight = 90
 
-# This is the single, correct block for markup settings.
+# ===========================================================================
+# Markup Settings
+# ===========================================================================
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

@@ -39,8 +39,8 @@ date: 2025-06-21
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 1.5rem;
-    flex: 1 1 400px; /* MODIFIED: Adjusted for two larger cards */
-    max-width: 450px; /* MODIFIED: Adjusted for two larger cards */
+    flex: 1 1 300px;
+    max-width: 350px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     text-align: center;
   }
@@ -70,25 +70,36 @@ date: 2025-06-21
 <div class="credibility-bar">
   <p>In collaboration with: 
     <a href="https://www.microsoft.com/en-us/research/blog/breaking-bonds-breaking-ground-advancing-the-accuracy-of-computational-chemistry-with-deep-learning/" target="_blank" rel="noopener noreferrer">Microsoft Research</a> • 
-    <a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LE250100055" target="_blank" rel="noopener noreferrer">Australian Research Council</a> • <a href="" target="_blank" rel="noopener noreferrer">National Computational Infrastructure</a>
+    <a href="" target="_blank" rel="noopener noreferrer">National Computational Infrastructure</a> • 
+    <a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LE250100055" target="_blank" rel="noopener noreferrer">Australian Research Council</a>
   </p>
 </div>
 
-<!-- === MODIFIED SECTION START === -->
-## Our Platform
+
+## Our Discovery Engine Integrates Simulation, AI, and Robotics
+Our platform integrates four key assets to provide an end-to-end solution, from fundamental prediction to real-world production.
+
 <div class="card-container">
   <div class="card">
-    <h3>The AI-Discovery Engine</h3>
-    <p>Our integrated platform combines predictive quantum simulation with a $2.7M national robotics network, creating a powerful feedback loop to solve complex R&D challenges with unprecedented speed.</p>
+    <h3>The AI Engine</h3>
+    <p>Our revolutionary deep-learning model delivers unprecedented predictive accuracy to rapidly explore complex chemical systems and de-risk industrial R&D.</p>
+    <a href="/platform/ai-breakthrough/">Learn More &rarr;</a>
+  </div>
+  <div class="card">
+    <h3>The Discovery Engine</h3>
+    <p>A <strong>$2.7M national robotics network</strong> that automates experimentation, guided by our unique expertise in quantum simulation at the UNE node.</p>
     <a href="/platform/discovery-engine/">Learn More &rarr;</a>
   </div>
   <div class="card">
-    <h3>World-Class Collaborations</h3>
-    <p>Our work is amplified through partnerships with global leaders, including a foundational AI breakthrough with <strong><a href="https://www.microsoft.com/en-us/research/blog/breaking-bonds-breaking-ground-advancing-the-accuracy-of-computational-chemistry-with-deep-learning/" target="_blank" rel="noopener noreferrer">Microsoft Research</a></strong> and a global water solution with <strong><a href="https://www.pnas.org/doi/10.1073/pnas.2508208122" target="_blank" rel="noopener noreferrer">Nobel Laureate Sir Kostya Novoselov</a></strong>.</p>
+    <h3>Proven Impact</h3>
+    <p>Our capabilities are demonstrated in high-impact projects, including a global water solution developed with <a href="https://www.pnas.org/doi/10.1073/pnas.2508208122" target="_blank" rel="noopener noreferrer">Nobel Laureate Sir Kostya Novoselov</a>
     <a href="/platform/solutions/">Learn More &rarr;</a>
   </div>
 </div>
-<!-- === MODIFIED SECTION END === -->
+
+
+
+
 
 ## What We Solve
 <div class="card-container">
@@ -105,6 +116,8 @@ date: 2025-06-21
     <p>Have a different challenge? Our engine is adaptable. Let's design a custom solution for your unique materials or process development needs.</p>
   </div>
 </div>
+
+
 
 <div class="final-cta">
   <h2>Ready to build the future of sustainable chemistry?</h2>
