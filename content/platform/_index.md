@@ -102,7 +102,7 @@ date: 2025-06-21
 </style>
 
 <div class="platform-hero">
-  <h1>Accelerate Sustainable Innovation</h1>
+  <h1>AI Accelerated Sustainable Innovation</h1>
   <p><strong>We integrate world-leading computational expertise with AI and automated robotics to turn your most complex R&D challenges into market-ready solutions.</strong></p>
 </div>
 
