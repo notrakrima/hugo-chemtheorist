@@ -7,6 +7,8 @@ draft = false
 # Peer-Reviewed Publications
 
 ---
+**<a href="" download>228</a>**\. K. P. Gregory, A. Karton. Big-Data Analysis of Geometric Descriptors as Efficient Predictors of Energetic Stability in Nonplanar Polycyclic Aromatic Hydrocarbons. *Journal of Computational Chemistry*, 46, e70198 (2025). <a href="https://doi.org/10.1002/jcc.70198 " target="_blank" rel="noopener noreferrer">https://doi.org/10.1002/jcc.70198</a>
+
 **<a href="" download>227</a>**\. H. Chen, T. Lin, Z. R. Ramadhan, A. Rawal, Y. Nishina, A. Karton, X. Ren, R. Joshi. Organic solvent transport through reduced graphene oxide membranes with controlled oxygen content. *Carbon*, 243, 120539 (2025). <a href="https://doi.org/10.1016/j.carbon.2025.120539" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.carbon.2025.120539</a>
 
 **<a href="" download>226</a>**\. A. Karton. Basis set convergence and empirical approaches for obtaining accurate diagonal Born–Oppenheimer corrections from an extensive database of 200 structurally diverse hydrocarbons. *Journal of Physical Chemistry A*, 129, 5692–5699 (2025). <a href="https://doi.org/10.1021/acs.jpca.5c02680" target="_blank" rel="noopener noreferrer">https://doi.org/10.1021/acs.jpca.5c02680</a>
