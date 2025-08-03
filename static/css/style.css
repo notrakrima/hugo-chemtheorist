@@ -1,0 +1,19 @@
+/* Styling for the snow day images */
+figure.snow-image {
+  margin-bottom: 25px;
+}
+
+figure.snow-image img {
+  /* This is the key change: set a fixed maximum width */
+  max-width: 700px; 
+  
+  /* This ensures it remains responsive and doesn't overflow on small screens */
+  width: 100%; 
+
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
