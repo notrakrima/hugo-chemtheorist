@@ -24,3 +24,7 @@ draft: false
   <li><strong><a href="{{< relref "/explore/comp_chem_journals" >}}">Computational Chemistry Journals</a></strong></li>
 </ul>
 
+<h2 style="margin-top: 2em;">Miscellaneous</h2> 
+<ul>
+  <li><strong><a href="{{< relref "/explore/armidale-snow-2025" >}}">The Great Armidale Snowfall of 2025</a></strong></li>
+</ul>
