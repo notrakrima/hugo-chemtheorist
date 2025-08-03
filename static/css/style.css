@@ -17,3 +17,18 @@ figure.snow-image img {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
+
+/* Styling for the looping video player */
+.video-container {
+  max-width: 700px; /* Adjust the size as you like */
+  margin: 20px auto; /* Centers the video container */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  overflow: hidden; /* Ensures the video corners are rounded */
+}
+
+.video-container video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
