@@ -56,6 +56,13 @@ The campus was transformed into a real-life Narnia on August 2, 2025, as the Uni
 </figure>
 
 <figure>
-  <img src="/images/snow/UNE_Snow_2025_11.jpg" alt="University of New England Epic Snow, Armidale, NSW, 2025" style="max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-style: italic; font-size: 0.9em;">Amir Karton, an unforgettable day at the University of New England, August 2, 2025.</figcaption>
+  <img src="/images/snow/from-the-news.jpg" alt="New England, NSW, Epic Snow, 2025" style="max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-style: italic; font-size: 0.9em;">Other pictures from the news, New England, NSW, August 2, 2025.</figcaption>
 </figure>
+
+<figure>
+  <img src="/images/snow/UNE_Snow_2025_11.jpg" alt="University of New England Epic Snow, Armidale, NSW, 2025" style="max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-style: italic; font-size: 0.9em;">Amir Karton --- An unforgettable day at the University of New England, August 2, 2025.</figcaption>
+</figure>
+
+
