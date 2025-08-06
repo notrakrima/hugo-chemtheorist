@@ -16,7 +16,7 @@
       {{ $activeJobs := where .Pages ".ExpiryDate" "ge" $now }}       
       
       {{ if not $activeJobs }}
-        <p class="text-center mt-4">There are currently no active job postings. Please check back later.</p>
+        <p class="text-center mt-4">There are currently no active postings. Last updated: {{ now.Format "January 2, 2006 at 3:04 PM" }}.</p>
       {{ else }}
         <!-- Sort by ExpiryDate so jobs ending soonest are at the top -->
         {{ range $activeJobs.ByExpiryDate }}
