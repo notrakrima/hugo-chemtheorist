@@ -9,11 +9,29 @@ exports.handler = async function(event) {
   const institution = formData.institution;
   const pi = formData.pi;
   const link = formData.link;
-  const expiryDate = formData.expiryDate;
+  const expiryDaysInput = formData.expiryDate; // Renamed for clarity
   const category = formData.category;
   const description = formData.description;
 
-  // 2. CREATE THE MARKDOWN CONTENT
+  // --- START: NEW DATE CALCULATION LOGIC ---
+  // Get the number of days from the form, default to 30 if not provided or invalid
+  const expiryDays = parseInt(expiryDaysInput, 10) || 30;
+
+  // Create a new date object for today
+  const futureDate = new Date();
+
+  // Add the number of days to today's date
+  futureDate.setDate(futureDate.getDate() + expiryDays);
+
+  // Format the future date into YYYY-MM-DD format for Hugo
+  const year = futureDate.getFullYear();
+  const month = String(futureDate.getMonth() + 1).padStart(2, '0'); // Months are 0-indexed
+  const day = String(futureDate.getDate()).padStart(2, '0');
+  const formattedExpiryDate = `${year}-${month}-${day}`;
+  // --- END: NEW DATE CALCULATION LOGIC ---
+
+
+  // 2. CREATE THE MARKDOWN CONTENT (NOW USING THE FORMATTED DATE)
   const markdownContent = `---
 # ===================================================================
 # Opportunity Details - Automatically generated from form submission
@@ -26,7 +44,7 @@ link: "${link}"
 
 # --- DATES (Use YYYY-MM-DD format) ---
 publishDate: ${new Date().toISOString().split('T')[0]}
-expiryDate: ${expiryDate}
+expiryDate: ${formattedExpiryDate}
 
 # --- CATEGORY ---
 category: "${category}"
