@@ -79,9 +79,9 @@ All submissions are reviewed before posting. The ad will appear on the board bet
   <p>
     <label>Display Ad Until (End Date): <input type="date" name="end-date" required /></label>
   </p>
-  <p>
-    <div data-netlify-recaptcha="true"></div>
-  </p>
+  
+  <div data-netlify-recaptcha="true" style="margin-bottom: 1rem;"></div>
+
   <p>
     <button type="submit">Submit for Review</button>
   </p>
