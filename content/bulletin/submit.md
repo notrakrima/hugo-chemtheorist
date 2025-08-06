@@ -9,7 +9,7 @@ Thank you for contributing to the Australian computational chemistry community. 
 All submissions are reviewed before posting. The ad will appear on the board between the start and end dates you specify.
 
 
-<form name="contact" method="POST" data-netlify="true" action="/bulletin/success/">
+<form name="contact" method="POST" data-netlify="true" action="/">
 
   <p>
     <label>Your Name: <input type="text" name="submitter-name" required /></label>
