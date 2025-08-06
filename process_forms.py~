@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
 This script fetches new form submissions from the Netlify API,
-presents them for manual review, creates correctly formatted Markdown files
-in either the 'bulletin' or 'spam' directory based on user input, and
-tracks processed submissions to prevent duplicates.
+creates correctly formatted Markdown files for a Hugo site, and tracks
+processed submissions to prevent duplicates.
 """
 import os
 import re
@@ -13,7 +12,6 @@ import requests
 # --- CONFIGURATION ---
 CREDENTIALS_FILE_PATH = '~/Desktop/WebSite/.form-id_api'
 OUTPUT_DIR = 'content/bulletin'
-SPAM_DIR = 'content/spam'  # Directory for rejected submissions
 PROCESSED_IDS_FILE = 'processed_submission_ids.txt'
 
 def load_credentials_from_file(filepath):
@@ -52,10 +50,6 @@ def main():
         print("FATAL ERROR: API credentials could not be loaded.")
         return
 
-    # Ensure output directories exist
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    os.makedirs(SPAM_DIR, exist_ok=True)
-
     print("Fetching submissions from Netlify API...")
     headers = {'Authorization': f'Bearer {api_token}'}
     url = f'https://api.netlify.com/api/v1/forms/{form_id}/submissions'
@@ -78,6 +72,8 @@ def main():
             continue
 
         new_submissions_found += 1
+        print(f"Processing new submission ID: {sub_id}")
+        
         data = sub['data']
         title = data.get('title', 'Untitled Post').replace('"', '“')
         institution = data.get('institution', 'N/A').replace('"', '“')
@@ -92,6 +88,9 @@ def main():
             expiry_date_obj = datetime.date.today() + datetime.timedelta(days=30)
             expiry_date = expiry_date_obj.strftime('%Y-%m-%d')
 
+        # --- THE CRITICAL FIX ---
+        # Dates are NOT in quotes. This allows Hugo to parse them as date objects,
+        # which is essential for the filtering logic in the layout template.
         markdown_content = f"""---
 title: "{title}"
 institution: "{institution}"
@@ -105,40 +104,20 @@ category: "Job"
 {description}
 """
         
-        # --- NEW: Moderation Step ---
-        print("\n" + "="*60)
-        print(">>> NEW SUBMISSION FOR REVIEW <<<")
-        print(f"Submission ID: {sub_id}")
-        print("-"*60)
-        print(markdown_content)
-        print("="*60)
-
-        choice = ''
-        while choice not in ['y', 'n']:
-            choice = input("Approve and post this ad? (y/n): ").lower().strip()
-
-        if choice == 'y':
-            target_dir = OUTPUT_DIR
-            print("  -> APPROVED. Saving to bulletin.")
-        else: # 'n'
-            target_dir = SPAM_DIR
-            print("  -> REJECTED. Moving to spam.")
-        
         safe_title = ''.join(c for c in title if c.isalnum() or c in ' .-_').lower().replace(' ', '-')
         filename = f"{datetime.date.today().strftime('%Y-%m-%d')}-{safe_title[:50]}-{sub_id[:6]}.md"
-        filepath = os.path.join(target_dir, filename)
+        filepath = os.path.join(OUTPUT_DIR, filename)
         
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(markdown_content)
         
         print(f"  -> Successfully created file: {filepath}")
-        # Mark as processed regardless of choice to prevent seeing it again
         save_processed_id(sub_id)
 
     if new_submissions_found == 0:
-        print("\nFinished. No new submissions to process.")
+        print("Finished. No new submissions to process.")
     else:
-        print(f"\nFinished. Reviewed {new_submissions_found} new submission(s).")
+        print(f"Finished. Successfully processed {new_submissions_found} new submission(s).")
 
 if __name__ == '__main__':
     main()
