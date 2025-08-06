@@ -1,5 +1,5 @@
 ---
-title: "Computational Chemistry Job Board"
+title: "Computational Chemistry Bulletin Board"
 date: 2025-08-01
 ---
 
