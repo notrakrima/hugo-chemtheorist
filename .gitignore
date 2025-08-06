@@ -4,3 +4,6 @@
 # Package Files
 node_modules/
 public/
+.form-id_api
+processed_submission_ids.txt
+

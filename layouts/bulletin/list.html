@@ -11,25 +11,27 @@
 
   <div class="row">
     <div class="col-12">
-      {{/* --- This is the magic part --- */}}
       {{ $now := now }}
-      {{ $activeJobs := where .Pages ".Params.expiryDate" "ge" $now }}
+      <!-- This filter now correctly uses .ExpiryDate -->
+      {{ $activeJobs := where .Pages ".ExpiryDate" "ge" $now }}       
       
       {{ if not $activeJobs }}
         <p class="text-center mt-4">There are currently no active job postings. Please check back later.</p>
       {{ else }}
-        {{ range $activeJobs.ByDate.Reverse }}
+        <!-- Sort by ExpiryDate so jobs ending soonest are at the top -->
+        {{ range $activeJobs.ByExpiryDate }}
           <div class="card mb-4 shadow-sm">
             <div class="card-body">
               <h4 class="card-title">{{ .Title }}</h4>
               <h6 class="card-subtitle mb-2 text-muted">{{ .Params.institution }} - {{ .Params.pi }}</h6>
               <div class="card-text">
-                {{ .Content }}
+                {{ .Content | markdownify }}
               </div>
               {{ with .Params.link }}
                 <a href="{{ . }}" class="btn btn-primary mt-3" target="_blank" rel="noopener">More Information</a>
               {{ end }}
-              <p class="card-text mt-3"><small class="text-muted">Visible on the bulletin board until: {{ .Params.expiryDate.Format "January 2, 2006" }}</small></p>
+              <!-- This now correctly uses .ExpiryDate -->
+              <p class="card-text mt-3"><small class="text-muted">Visible on the bulletin board until: {{ .ExpiryDate.Format "January 2, 2006" }}</small></p>
             </div>
           </div>
         {{ end }}
