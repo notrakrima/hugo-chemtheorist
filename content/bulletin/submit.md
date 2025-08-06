@@ -9,7 +9,7 @@ Thank you for contributing to the Australian computational chemistry community. 
 All submissions are reviewed before posting. The ad will appear on the board between the start and end dates you specify.
 
 
-<form id="job-submission-form" name="bulletin-submission" method="POST" action="/bulletin/success/" data-netlify="true">
+<form id="job-submission-form" name="bulletin-submission" method="POST" action="/bulletin/success/" data-netlify="true" data-netlify-recaptcha="true">
   <p>
     <label>Your Name: <input type="text" name="submitter-name" required /></label>
   </p>
@@ -78,6 +78,9 @@ All submissions are reviewed before posting. The ad will appear on the board bet
   </p>
   <p>
     <label>Display Ad Until (End Date): <input type="date" name="end-date" required /></label>
+  </p>
+  <p>
+    <div data-netlify-recaptcha="true"></div>
   </p>
   <p>
     <button type="submit">Submit for Review</button>
