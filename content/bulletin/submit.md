@@ -4,10 +4,15 @@ date: 2025-08-01
 layout: "single"
 ---
 
-Thank you for contributing to the Australian computational chemistry community. Please fill out the form below to submit an advertisement for the Australian Computational Chemistry Bulletin Board.
+Thank you for contributing to the Australian computational chemistry community. 
 
-All submissions are reviewed before posting. The ad will appear on the board between the start and end dates you specify.
+Please fill out the form below to submit an advertisement for the [Australian Computational Chemistry Bulletin Board](/bulletin/).
 
+All submissions will be reviewed before posting. 
+
+The ad will appear on the board between the start and end dates you specify.
+
+<br>
 
 <form id="job-submission-form" name="bulletin-submission" method="POST" action="/bulletin/success/" data-netlify="true" data-netlify-recaptcha="true">
   <p>
