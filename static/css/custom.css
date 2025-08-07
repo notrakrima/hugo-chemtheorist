@@ -304,3 +304,15 @@ hr {
     margin-bottom: 0.75em; /* Space below column titles */
     /* Add any other specific styling for column titles if desired */
 }
+
+/* --- Bulletin Board --- */
+
+/* Corrected rule based on inspector: Target the h6 with class 'card-subtitle' */
+.card-body .card-subtitle {
+  font-size: 1.0rem !important; /* Make it much larger, like the h4 title */
+  font-weight: 900 !important;   /* Make it bolder */
+  color: var(--bs-body-color) !important; /* Override the grey 'text-muted' color */
+}
+
+
+
