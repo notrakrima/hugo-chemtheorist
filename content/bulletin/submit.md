@@ -11,16 +11,16 @@ All submissions are reviewed before posting. The ad will appear on the board bet
 
 <form id="job-submission-form" name="bulletin-submission" method="POST" action="/bulletin/success/" data-netlify="true" data-netlify-recaptcha="true">
   <p>
-    <label>Your Name: <input type="text" name="submitter-name" required /></label>
+    <label>Your Name: <input type="text" name="submitter-name" required /></label> (will be displayed)
   </p>
   <p>
-    <label>Your Email: <input type="email" name="submitter-email" required /></label>
+    <label>Your Email: <input type="email" name="submitter-email" required /></label> (will NOT be displayed)
   </p>
   <p>
-    <label>Opportunity Title: <input type="text" name="title" required /></label>
+    <label>Opportunity Title: <input type="text" name="title" required /></label> (will be displayed)
   </p>
   <p>
-    <label>University / Institution / Company: <input type="text" name="institution" required /></label>
+    <label>University / Institution / Company: <input type="text" name="institution" required /></label> (will be displayed)
   </p>
 <p>
   <label for="description-textarea">PhD / Postdoc / Job / Conference Description (100-word limit):</label><br>
@@ -71,7 +71,7 @@ All submissions are reviewed before posting. The ad will appear on the board bet
   });
 </script>
   <p>
-    <label>Link for More Information: <input type="url" name="link" /></label>
+    <label>Link for More Information: <input type="url" name="link" /></label> (will be displayed)
   </p>
   <p>
     <label>Display Ad From (Start Date): <input type="date" name="start-date" required /></label>
