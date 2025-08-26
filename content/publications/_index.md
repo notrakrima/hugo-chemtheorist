@@ -7,6 +7,9 @@ draft = false
 # Peer-Reviewed Publications
 
 ---
+
+**<a href="" download>229</a>**\. A. J. Notzon, O. Lamb, C. J. Sumby, A. Karton, R. O’Reilly, B. W. Greatrex. Tropylium catalyzed domino reactions for the thioetherification of levoglucosenone. *Synthesis*, in press (2025). <a href="https://doi.org/10.1002/jcc.70198 " target="_blank" rel="noopener noreferrer">https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-2669-5931</a>
+
 **<a href="" download>228</a>**\. K. P. Gregory, A. Karton. Big-Data Analysis of Geometric Descriptors as Efficient Predictors of Energetic Stability in Nonplanar Polycyclic Aromatic Hydrocarbons. *Journal of Computational Chemistry*, 46, e70198 (2025). <a href="https://doi.org/10.1002/jcc.70198 " target="_blank" rel="noopener noreferrer">https://doi.org/10.1002/jcc.70198</a>
 
 **<a href="" download>227</a>**\. H. Chen, T. Lin, Z. R. Ramadhan, A. Rawal, Y. Nishina, A. Karton, X. Ren, R. Joshi. Organic solvent transport through reduced graphene oxide membranes with controlled oxygen content. *Carbon*, 243, 120539 (2025). <a href="https://doi.org/10.1016/j.carbon.2025.120539" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.carbon.2025.120539</a>

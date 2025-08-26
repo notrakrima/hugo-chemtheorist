@@ -26,6 +26,7 @@ date: 2025-06-15T00:00:00+00:00
 
 ## Awards
 
+*   Research Collaboration Leadership Award for exceptional dedication to advancing computational chemistry and building durable, high-impact research partnerships, University of New England (2025)
 *   World Class Professor (WCP) visiting professorship to visit Haluoleo University (Kendari, Indonesia), Ministry of Education, Culture, Research, and Technology, Republic of Indonesia (2022)
 *   RACI Citation Award for contributions to Australian Computational Chemistry, Royal Australian Chemical Institute (2021)
 *   Journal of Physical Chemistry – PHYS Division Lectureship Award, American Chemical Society (2020)
