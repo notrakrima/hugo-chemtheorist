@@ -1,0 +1,19 @@
+{{ if .IsNamedParams }}
+  <div class="video-container">
+    {{/* YouTube embed logic is commented out as requested.
+    {{ if eq .Params.type "youtube" }}
+      <iframe src="https://www.youtube.com/embed/{{ .Params.id }}" allowfullscreen></iframe>
+    {{ end }}
+    */}}
+  </div>
+{{ else }}
+  <figure style="text-align: center; margin: 1em 0;">
+    <video controls preload="auto" width="100%" style="max-width: 650px; margin: auto; display: block;">
+      <source src="{{ .Get 0 }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    {{ if .Get 1 }}
+      <figcaption style="margin-top: 0.5em; font-size: 0.9em; color: #555;">{{ .Get 1 | markdownify }}</figcaption>
+    {{ end }}
+  </figure>
+{{ end }}

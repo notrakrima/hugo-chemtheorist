@@ -80,7 +80,7 @@ We are actively seeking collaborations with industry leaders in:
 
 
 
-{{< youtube 1e06QweGoLs >}}
+{{< video "/videos/NBNTamworth_2025-08-25.mp4" "See News Story on NBN News, August 25, 2025" >}}
 
 ---
 
