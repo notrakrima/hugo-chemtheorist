@@ -14,15 +14,32 @@
   <hr>
 
   <!-- ================================================================= -->
-  <!-- ============ SIDE-BY-SIDE NEWS & SLIDESHOW SECTION ============== -->
+  <!-- =================== NEWS SECTION (ABOVE) ======================== -->
   <!-- ================================================================= -->
-  <div style="display: flex; align-items: flex-start; gap: 2rem; margin-top: 1.5rem;">
+  <div style="display: flex; align-items: stretch; gap: 1.5rem; margin-top: 1.5rem;">
 
-    <!-- News Column (Left Side) - NOW WITH CARDS -->
-    <div style="flex: 0 0 40%;">
-      
-      <!-- Card 1: Microsoft News -->
-      <div class="card" style="margin-bottom: 1.5rem;">
+    <!-- News Column 1 -->
+    <div style="flex: 1;">
+      <div class="card" style="height: 100%;">
+        <header class="card-header">
+          <p class="card-header-title">
+            <strong>AI to power future of solar panel recycling</strong>
+          </p>
+        </header>
+        <div class="card-content">
+          <div class="content">
+            <ul>
+              <li>UNE: <a href="https://www.une.edu.au/about-une/news-and-events/news/2025/08/ai-to-power-future-of-solar-recycling" target="_blank" rel="noopener noreferrer">Read Media Release</a></li>
+              <li>NBN Tamworth: <a href="/videos/NBNTamworth_2025-08-25.mp4" target="_blank" rel="noopener noreferrer">News Story</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- News Column 2 -->
+    <div style="flex: 1;">
+      <div class="card" style="height: 100%;">
         <header class="card-header">
           <p class="card-header-title">
             <strong>Microsoft Research AI4Science Collaboration</strong>
@@ -40,9 +57,11 @@
           </div>
         </div>
       </div>
+    </div>
 
-      <!-- Card 2: Clean Water News -->
-      <div class="card">
+    <!-- News Column 3 -->
+    <div style="flex: 1;">
+      <div class="card" style="height: 100%;">
         <header class="card-header">
           <p class="card-header-title">
             <strong>Clean Water Solutions in Regional Australia</strong>
@@ -58,45 +77,47 @@
           </div>
         </div>
       </div>
-
     </div>
+  </div>
 
-    <!-- Slideshow Column (Right Side) -->
-    <div style="flex: 1 1 60%; min-width: 0;">
-      <div style="position: relative;">
-        <div class="swiper-container hero-slideshow">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide"> <img src="/images/GTOC.jpg" alt="GTOC Image"></div>
-            <div class="swiper-slide"> <img src="/images/join-flyer.jpg" alt="Join Lab Initio Flyer"></div>
-            <div class="swiper-slide"><img src="/images/cover1.jpg" alt="Research Cover Image 1"></div>
-            <div class="swiper-slide"><img src="/images/cover2.jpg" alt="Research Cover Image 2"></div>
-            <div class="swiper-slide"> <img src="/images/GO.jpg" alt="GO Image"></div>
-            <div class="swiper-slide"><img src="/images/cover3.jpg" alt="Research Cover Image 3"></div>
-            <div class="swiper-slide"><img src="/images/cover5.jpg" alt="Research Cover Image 5"></div>
-            <div class="swiper-slide"><img src="/images/Catalysis.jpg" alt="Catalysis Research Image"></div>
-            <div class="swiper-slide"><img src="/images/cover7.jpg" alt="Research Cover Image 7"></div>
-            <div class="swiper-slide"><img src="/images/cover6.jpg" alt="Research Cover Image 6"></div>
-            <div class="swiper-slide"> <img src="/images/Pople.jpg" alt="Pople Image"></div>
-            <div class="swiper-slide"><img src="/images/cover11.jpg" alt="Research Cover Image 11"></div>
-            <div class="swiper-slide"><img src="/images/cover12.jpg" alt="Research Cover Image 12"></div>
-            <div class="swiper-slide"><img src="/images/cover13.jpg" alt="Research Cover Image 13"></div>
-            <div class="swiper-slide"><img src="/images/cover14.jpg" alt="Research Cover Image 14"></div>
-            <div class="swiper-slide"><img src="/images/cover15.jpg" alt="Research Cover Image 15"></div>
-            <div class="swiper-slide"><img src="/images/cover16.jpg" alt="Research Cover Image 16"></div>
-            <div class="swiper-slide"> <img src="/images/Jacob.jpg" alt="Jacob Image"></div>
-            <div class="swiper-slide"><img src="/images/cover4.jpg" alt="Research Cover Image 4"></div>
-            <div class="swiper-slide"><img src="/images/cover8.jpg" alt="Research Cover Image 8"></div>
-            <div class="swiper-slide"><img src="/images/cover9.jpg" alt="Research Cover Image 9"></div>
-            <div class="swiper-slide"><img src="/images/cover10.jpg" alt="Research Cover Image 10"></div>
-          </div>
-          <div class="swiper-pagination"></div>
-          <div class="swiper-button-prev"></div>
-          <div class="swiper-button-next"></div>
+  <hr style="margin-top: 2rem; margin-bottom: 2rem;">
+
+  <!-- ================================================================= -->
+  <!-- ================= SLIDESHOW SECTION (BELOW) ===================== -->
+  <!-- ================================================================= -->
+  <div style="width: 100%;">
+    <div style="position: relative;">
+      <div class="swiper-container hero-slideshow">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide"> <img src="/images/GTOC.jpg" alt="GTOC Image"></div>
+          <div class="swiper-slide"> <img src="/images/join-flyer.jpg" alt="Join Lab Initio Flyer"></div>
+          <div class="swiper-slide"><img src="/images/cover1.jpg" alt="Research Cover Image 1"></div>
+          <div class="swiper-slide"><img src="/images/cover2.jpg" alt="Research Cover Image 2"></div>
+          <div class="swiper-slide"> <img src="/images/GO.jpg" alt="GO Image"></div>
+          <div class="swiper-slide"><img src="/images/cover3.jpg" alt="Research Cover Image 3"></div>
+          <div class="swiper-slide"><img src="/images/cover5.jpg" alt="Research Cover Image 5"></div>
+          <div class="swiper-slide"><img src="/images/Catalysis.jpg" alt="Catalysis Research Image"></div>
+          <div class="swiper-slide"><img src="/images/cover7.jpg" alt="Research Cover Image 7"></div>
+          <div class="swiper-slide"><img src="/images/cover6.jpg" alt="Research Cover Image 6"></div>
+          <div class="swiper-slide"> <img src="/images/Pople.jpg" alt="Pople Image"></div>
+          <div class="swiper-slide"><img src="/images/cover11.jpg" alt="Research Cover Image 11"></div>
+          <div class="swiper-slide"><img src="/images/cover12.jpg" alt="Research Cover Image 12"></div>
+          <div class="swiper-slide"><img src="/images/cover13.jpg" alt="Research Cover Image 13"></div>
+          <div class="swiper-slide"><img src="/images/cover14.jpg" alt="Research Cover Image 14"></div>
+          <div class="swiper-slide"><img src="/images/cover15.jpg" alt="Research Cover Image 15"></div>
+          <div class="swiper-slide"><img src="/images/cover16.jpg" alt="Research Cover Image 16"></div>
+          <div class="swiper-slide"> <img src="/images/Jacob.jpg" alt="Jacob Image"></div>
+          <div class="swiper-slide"><img src="/images/cover4.jpg" alt="Research Cover Image 4"></div>
+          <div class="swiper-slide"><img src="/images/cover8.jpg" alt="Research Cover Image 8"></div>
+          <div class="swiper-slide"><img src="/images/cover9.jpg" alt="Research Cover Image 9"></div>
+          <div class="swiper-slide"><img src="/images/cover10.jpg" alt="Research Cover Image 10"></div>
         </div>
+        <div class="swiper-pagination"></div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
       </div>
     </div>
-
-  </div> <!-- End of flex container div -->
+  </div>
 
 </div> <!-- End of homepage-content div -->
 

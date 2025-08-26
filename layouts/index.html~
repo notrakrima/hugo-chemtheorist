@@ -1,0 +1,120 @@
+{{ define "main" }}
+
+<div class="homepage-content">
+
+  <!-- === Title and Introduction Section === -->
+  <h1>{{ .Site.Title }}</h1>
+  <p class="tagline">The First Principles AI Engine for Chemical Discovery</p> 
+  <hr>
+  <div class="introduction">
+    <p>
+      Welcome to Lab Initio, where we pioneer AI-Driven Quantum Chemical Technologies. We bridge the gap between theoretical prediction and real-world application by integrating state-of-the-art computational simulations with high-throughput robotic experimentation. Our unique platform uses powerful GPU-based computing and state-of-the-art graph neural networks for rapid molecular dynamics, followed by high-level DFT and ab initio calculations. This allows us to generate the world's most sophisticated and accurate chemical databases, providing the benchmark accuracy needed for cutting-edge AI models. We connect these powerful simulations directly to an ARC-funded self-driving automated molecular and materials synthesis and formulation Platform, creating an unprecedented feedback loop that dramatically accelerates the discovery and optimization of chemical processes.
+    </p>
+  </div>
+  <hr>
+
+  <!-- ================================================================= -->
+  <!-- ============ SIDE-BY-SIDE NEWS & SLIDESHOW SECTION ============== -->
+  <!-- ================================================================= -->
+  <div style="display: flex; align-items: flex-start; gap: 2rem; margin-top: 1.5rem;">
+
+    <!-- News Column (Left Side) - NOW WITH CARDS -->
+    <div style="flex: 0 0 40%;">
+      
+      <!-- Card 1: Solar Panel Recycling News -->
+      <div class="card" style="margin-bottom: 1.5rem;">
+        <header class="card-header">
+          <p class="card-header-title">
+            <strong>AI to power future of solar panel recycling</strong>
+          </p>
+        </header>
+        <div class="card-content">
+          <div class="content">
+            <ul>
+              <li>UNE: <a href="https://www.une.edu.au/about-une/news-and-events/news/2025/08/ai-to-power-future-of-solar-recycling" target="_blank" rel="noopener noreferrer">Read Media Release</a></li>
+              <li>NBN Tamworth: <a href="/videos/NBNTamworth_2025-08-25.mp4" target="_blank" rel="noopener noreferrer">News Story</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 2: Microsoft News -->
+      <div class="card" style="margin-bottom: 1.5rem;">
+        <header class="card-header">
+          <p class="card-header-title">
+            <strong>Microsoft Research AI4Science Collaboration</strong>
+          </p>
+        </header>
+        <div class="card-content">
+          <div class="content">
+            <ul>
+              <li>Microsoft Blog: <a href="https://t.co/LuH7ZFgyVv" target="_blank" rel="noopener noreferrer">Read Post</a></li>
+              <li>C&EN Story: <a href="https://tinyurl.com/4myfhczv" target="_blank" rel="noopener noreferrer">Read Story</a></li>
+              <li>UNE Note: <a href="https://tinyurl.com/32azcy7s" target="_blank" rel="noopener noreferrer">Read Note</a></li>
+              <li>TAE25 Database: <a href="https://arxiv.org/abs/2506.14492" target="_blank" rel="noopener noreferrer">ArXiv Paper</a></li>
+              <li>Skala Deep-Learning DFT: <a href="https://arxiv.org/abs/2506.14665" target="_blank" rel="noopener noreferrer">ArXiv Paper</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 3: Clean Water News -->
+      <div class="card">
+        <header class="card-header">
+          <p class="card-header-title">
+            <strong>Clean Water Solutions in Regional Australia</strong>
+          </p>
+        </header>
+        <div class="card-content">
+          <div class="content">
+            <ul>
+              <li>UNE Media Release: <a href="https://tinyurl.com/yckyfzsz" target="_blank" rel="noopener noreferrer">Read Story</a></li>
+              <li>UNSW Media Release: <a href="https://tinyurl.com/3yu79ccr" target="_blank" rel="noopener noreferrer">Read Story</a></li>
+              <li>PNAS paper: <a href="https://doi.org/10.1073/pnas.2508208122" target="_blank" rel="noopener noreferrer">PNAS Paper</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Slideshow Column (Right Side) -->
+    <div style="flex: 1 1 60%; min-width: 0;">
+      <div style="position: relative;">
+        <div class="swiper-container hero-slideshow">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide"> <img src="/images/GTOC.jpg" alt="GTOC Image"></div>
+            <div class="swiper-slide"> <img src="/images/join-flyer.jpg" alt="Join Lab Initio Flyer"></div>
+            <div class="swiper-slide"><img src="/images/cover1.jpg" alt="Research Cover Image 1"></div>
+            <div class="swiper-slide"><img src="/images/cover2.jpg" alt="Research Cover Image 2"></div>
+            <div class="swiper-slide"> <img src="/images/GO.jpg" alt="GO Image"></div>
+            <div class="swiper-slide"><img src="/images/cover3.jpg" alt="Research Cover Image 3"></div>
+            <div class="swiper-slide"><img src="/images/cover5.jpg" alt="Research Cover Image 5"></div>
+            <div class="swiper-slide"><img src="/images/Catalysis.jpg" alt="Catalysis Research Image"></div>
+            <div class="swiper-slide"><img src="/images/cover7.jpg" alt="Research Cover Image 7"></div>
+            <div class="swiper-slide"><img src="/images/cover6.jpg" alt="Research Cover Image 6"></div>
+            <div class="swiper-slide"> <img src="/images/Pople.jpg" alt="Pople Image"></div>
+            <div class="swiper-slide"><img src="/images/cover11.jpg" alt="Research Cover Image 11"></div>
+            <div class="swiper-slide"><img src="/images/cover12.jpg" alt="Research Cover Image 12"></div>
+            <div class="swiper-slide"><img src="/images/cover13.jpg" alt="Research Cover Image 13"></div>
+            <div class="swiper-slide"><img src="/images/cover14.jpg" alt="Research Cover Image 14"></div>
+            <div class="swiper-slide"><img src="/images/cover15.jpg" alt="Research Cover Image 15"></div>
+            <div class="swiper-slide"><img src="/images/cover16.jpg" alt="Research Cover Image 16"></div>
+            <div class="swiper-slide"> <img src="/images/Jacob.jpg" alt="Jacob Image"></div>
+            <div class="swiper-slide"><img src="/images/cover4.jpg" alt="Research Cover Image 4"></div>
+            <div class="swiper-slide"><img src="/images/cover8.jpg" alt="Research Cover Image 8"></div>
+            <div class="swiper-slide"><img src="/images/cover9.jpg" alt="Research Cover Image 9"></div>
+            <div class="swiper-slide"><img src="/images/cover10.jpg" alt="Research Cover Image 10"></div>
+          </div>
+          <div class="swiper-pagination"></div>
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
+        </div>
+      </div>
+    </div>
+
+  </div> <!-- End of flex container div -->
+
+</div> <!-- End of homepage-content div -->
+
+{{ end }}
