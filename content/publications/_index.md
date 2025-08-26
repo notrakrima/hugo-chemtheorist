@@ -28,7 +28,7 @@ draft = false
 
 **<a href="https://drive.google.com/uc?export=download&id=1Q7H-jOQVcrV9MvZ7cAmT-5Ums0AKcYA6" download>220</a>**\. A. Karton, M. T. de Oliveira. Good Practices in Database Generation for DFT Benchmarking. *WIREs Computational Molecular Science*, 15, e1737 (2025). <a href="http://dx.doi.org/10.1002/wcms.1737" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1002/wcms.1737</a>
 
-**<a href="" download>219</a>**\. M. Korb, G. Hosseini, M. B. Seyed; A. Karton, P. Low. Experimental and computational studies of steric factors in the isomerization of internal alkynes within the coordination environment of half-sandwich metal complexes. *Chemistry - A European Journal*, 31, e202403700 (2025). <a href="https://doi.org/10.1002/chem.202403700" target="_blank" rel="noopener noreferrer">https://doi.org/10.1002/chem.202403700</a>
+**<a href="" download>219</a>**\. M. Korb, G. Hosseini, M. B. Seyed, A. Karton, P. Low. Experimental and computational studies of steric factors in the isomerization of internal alkynes within the coordination environment of half-sandwich metal complexes. *Chemistry - A European Journal*, 31, e202403700 (2025). <a href="https://doi.org/10.1002/chem.202403700" target="_blank" rel="noopener noreferrer">https://doi.org/10.1002/chem.202403700</a>
 
 **<a href="" download>218</a>**\. A. Karton, M. Haasler, M. Kaupp. Post-CCSD(T) Thermochemistry of Chlorine Fluorides as a Challenging Test Case for Evaluating Density Functional Theory and Composite Ab Initio Methods. *ChemPhysChem*, 26, e202400750 (2025). <a href="https://doi.org/10.1002/cphc.202400750" target="_blank" rel="noopener noreferrer">https://doi.org/10.1002/cphc.202400750</a>
 

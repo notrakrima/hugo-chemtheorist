@@ -5,11 +5,11 @@ date: 2025-06-15T00:00:00+00:00
 
 ## Current Grants
 
-*   $1,987,000, ARC Linkage Infrastructure, Equipment and Facilities grant (LE250100055), A Self-Driving Automated Molecular Synthesis and Formulation Platform. Joint grant with Profs Christopher Hyland, Thanh Vinh Nguyen, Thomas Fallon, Andrew Tague, Sinead Keaveney, Martina Stenzel, Christopher Richardson, Erica Wanless, Alister Page, Pall Thordarson, Lei Wang, Adam McCluskey, and Egbert Meijer
+*   $1,987,000, ARC Linkage Infrastructure, Equipment and Facilities grant (<a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/LE250100055" target="_blank" rel="noopener noreferrer">LE250100055</a>), A Self-Driving Automated Molecular Synthesis and Formulation Platform. Joint grant with Profs Christopher Hyland, Thanh Vinh Nguyen, Thomas Fallon, Andrew Tague, Sinead Keaveney, Martina Stenzel, Christopher Richardson, Erica Wanless, Alister Page, Pall Thordarson, Lei Wang, Adam McCluskey, and Egbert Meijer
 
-*   $461,000, ARC Discovery Project (DP200101664), joint grant with A/Profs. Ekaterina Pas and Masahiro Fujita, and Prof. Kenichi Oyaizu
+*   $461,000, ARC Discovery Project (DP200101664), joint grant with Profs Ekaterina Pas, Masahiro Fujita, and Kenichi Oyaizu
 
-*   $8,200, IUPAC Project, Redefining proton affinity for molecules with asymmetric proton binding sites, project # 2023-001-4-100. Joint multinational grant with Dr. E. E. Etim, Prof. D. A. Dixon, Prof. E. Arunan, Prof. A. G. Császár, Prof. K. A. Peterson, Prof. M. Tabrizchi, Dr. N.-A. O. Offiong, Prof. R. Vianello
+*   $8,200, IUPAC Project, Redefining proton affinity for molecules with asymmetric proton binding sites, project # 2023-001-4-100. Joint multinational grant with Drs E. E. Etim and N.-A. O. Offiong, and Profs D. A. Dixon, E. Arunan, A. G. Császár, K. A. Peterson, M. Tabrizchi, and R. Vianello
 
 *  Industry-funded research collaborations exceeding $500,000 in total value. Specific details are currently confidential under partnership agreements 
 
