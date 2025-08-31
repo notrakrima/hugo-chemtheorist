@@ -132,7 +132,7 @@ draft = false
 
 **<a href="https://drive.google.com/uc?export=download&id=1AEL5BapHcXT8V5Jry4WptLZUGcgP8mp0" download>168</a>**\. A. Aghajamali, A. Karton. Comparative study of carbon force fields for the simulation of carbon onions. *Australian Journal of Chemistry*, 74, 709–714 (2021). <a href="https://doi.org/10.1071/CH21172" target="_blank" rel="noopener noreferrer">https://doi.org/10.1071/CH21172</a>
 
-**<a href="" download>167</a>**\. A. Karton, B. Chan. Accurate Heats of Formation for Polycyclic Aromatic Hydrocarbons: A High-Level Ab Initio Perspective. *Journal of Chemical & Engineering Data*, 9, 3453–3462 (2021). <a href="https://doi.org/10.1021/acs.jced.1c00256" target="_blank" rel="noopener noreferrer">https://doi.org/10.1021/acs.jced.1c00256</a>
+**<a href="" download>167</a>**\. A. Karton, B. Chan. Accurate Heats of Formation for Polycyclic Aromatic Hydrocarbons: A High-Level Ab Initio Perspective. *Journal of Chemical & Engineering Data*, 66, 3453–3462 (2021). <a href="https://doi.org/10.1021/acs.jced.1c00256" target="_blank" rel="noopener noreferrer">https://doi.org/10.1021/acs.jced.1c00256</a>
 
 **<a href="" download>166</a>**\. B. Chan, A. Karton. Polycyclic Aromatic Hydrocarbons: From Small Molecules Through Nano-Sized Species Towards Bulk Graphene. *Physical Chemistry Chemical Physics*, 23, 17713–17723 (2021). <a href="https://doi.org/10.1039/d1cp01659h" target="_blank" rel="noopener noreferrer">https://doi.org/10.1039/d1cp01659h</a>
 
