@@ -12,7 +12,8 @@ GDB9-W1-F12 Paper:
 <br>
 GDB9-W1-F12 Database:
 [[XYZ files]](/databases/GEOMs_3366_SI.tar.gz)
-[[Reference TAEs]](/databases/GDB9_W1-F12_SI_rev.csv)
+[[Reference all-electron, nonrel CCSD(T)/CBS TAEs]](/databases/list_ref_w1-f12_CCSDt_all-e_nonrel.txt)
+[[Reference all-electron, rel CCSD(T)/CBS TAEs]](/databases/list_ref_w1-f12_CCSDt_all-e_rel.txt)
 
 ### W4-17 Database <span style="font-weight: normal; font-size: smaller;">(200 FCI/CBS total atomization energies from W4 theory or higher)</span>
 W4-17 Paper:
