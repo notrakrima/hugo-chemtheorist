@@ -17,12 +17,14 @@ draft: false
 |                   | [Journal of Physical Chemistry B]                                | 2.8                      |
 |                   | [Journal of Physical Chemistry C]                                | 3.3                      |
 |                   | [Journal of Chemical & Engineering Data]                         | 2.1                      |
+
 | **Wiley**         | [Wiley Interdisciplinary Reviews: Computational Molecular Science] | 16.8                     |
 |                   | [Journal of Computational Chemistry]                             | 3.4                      |
 |                   | [Advanced Theory and Simulations]                                | 2.9                      |
 |                   | [ChemPhysChem]                                                   | 2.3                      |
 |                   | [International Journal of Quantum Chemistry]                     | 2.3                      |
 |                   | [Journal of Physical Organic Chemistry]                          | 1.9                      |
+
 | **Elsevier**      | [Applied Surface Science]                                        | 6.3                      |
 |                   | [Journal of Molecular Structure]                                 | 4.0                      |
 |                   | [Molecular Catalysis]                                            | 3.9                      |
@@ -31,15 +33,19 @@ draft: false
 |                   | [Chemical Physics Letters]                                       | 2.8                      |
 |                   | [Journal of Molecular Graphics and Modelling]                    | 2.7                      |
 |                   | [Chemical Physics]                                               | 2.0                      |
+
 | **Taylor & Francis**| [International Reviews in Physical Chemistry]                    | 2.5                      |
 |                   | [Molecular Simulation]                                           | 1.9                      |
 |                   | [Molecular Physics]                                              | 1.6                      |
+
 | **Springer**      | [Journal of Computer-Aided Molecular Design]                     | 3.0                      |
 |                   | [Structural Chemistry]                                           | 2.1                      |
 |                   | [Journal of Molecular Modeling]                                  | 2.1                      |
 |                   | [Theoretical Chemistry Accounts]                                 | 1.6                      |
 |                   | [SN Journal Finder]                                              |                          |
+
 | **AIP**           | [Journal of Chemical Physics]                                    | 3.1                      |
+
 | **RSC**           | [Physical Chemistry Chemical Physics (PCCP)]                     | 2.9                      |
 
 <br>
@@ -51,9 +57,12 @@ draft: false
 | Publisher         | Journal Name                                     | IF  |
 | :---------------- | :----------------------------------------------- | :----------------------- |
 | **Nature**        | [Nature Scientific Data]                         | 6.9                      |
+
 | **Springer**      | [Journal of Cheminformatics]                     | 5.7                      |
+
 | **ACS**           | [Journal of Chemical Information and Modeling]   | 5.7                      |
 |                   | [Journal of Chemical & Engineering Data]         | 2.1                      |
+
 | **Elsevier**      | [Chemical Data Collections]                      | 2.7                      |
 |                   | [Data in Brief]                                  | 1.4                      |
 
