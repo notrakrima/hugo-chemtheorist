@@ -38,6 +38,7 @@ draft: false
 |                   | [Structural Chemistry]                                           | 2.1                      |
 |                   | [Journal of Molecular Modeling]                                  | 2.1                      |
 |                   | [Theoretical Chemistry Accounts]                                 | 1.6                      |
+|                   | [SN Journal Finder Journal Finder]                               |                          |
 | **AIP**           | [Journal of Chemical Physics]                                    | 3.1                      |
 | **RSC**           | [Physical Chemistry Chemical Physics (PCCP)]                     | 2.9                      |
 
@@ -91,5 +92,5 @@ draft: false
 [Chemical Data Collections]: https://www.sciencedirect.com/journal/chemical-data-collections
 [Data in Brief]: https://www.sciencedirect.com/journal/data-in-brief
 [Journal of Cheminformatics]: https://jcheminf.biomedcentral.com/
-
+[SN Journal Finder]: https://link.springer.com/journals?lid=t4kqm2u3xcj4&utm_source=braze&utm_medium=email&utm_campaign=CONR_JRNLS_REP1_GL_PJNL_05ROK_INSPIRE-RELEVANCE_Variant%201_st1-2-jf&cep-id=67c2250a9971c0185718e3cb
 
