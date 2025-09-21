@@ -38,7 +38,7 @@ draft: false
 |                   | [Structural Chemistry]                                           | 2.1                      |
 |                   | [Journal of Molecular Modeling]                                  | 2.1                      |
 |                   | [Theoretical Chemistry Accounts]                                 | 1.6                      |
-|                   | [SN Journal Finder Journal Finder]                               |                          |
+|                   | [SN Journal Finder]                                              |                          |
 | **AIP**           | [Journal of Chemical Physics]                                    | 3.1                      |
 | **RSC**           | [Physical Chemistry Chemical Physics (PCCP)]                     | 2.9                      |
 
