@@ -70,6 +70,7 @@ draft: false
 
 | Publisher            | Journal Finder                                   | 
 | :----------------    | :----------------------------------------------- |
+| **ACS**              | [ACS Journal Finder]                             |
 | **Elsevier**         | [Elsevier Journal Finder]                        |
 | **Springer Nature**  | [SN Journal Finder]                              |
 | **Wiley**            | [Wiley Journal Finder]                           |
@@ -114,3 +115,4 @@ draft: false
 [Elsevier Journal Finder]: https://journalfinder.elsevier.com/
 [Wiley Journal Finder]: https://journalfinder.wiley.com/search?type=match
 [TF Journal Finder]: https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/
+[ACS Journal Finder]: https://acs.chronoshub.io/
