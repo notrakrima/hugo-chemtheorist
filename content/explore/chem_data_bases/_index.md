@@ -48,7 +48,7 @@ PAH335 Database:
 [[XYZ files]](/databases/PAH335_XYZ.tar.gz)
 <a href="/databases/PAH335_G4MP2_Ener.txt" download>[Reference PAH Isomerization Energies]</a>
 
-### C40 Database  <span style="font-weight: normal; font-size: smaller;">(29 CCSD(T)/CBS C40 isomerization energoes from G4(MP2) theory)</span>
+### C40 Database  <span style="font-weight: normal; font-size: smaller;">(29 CCSD(T)/CBS C40 isomerization energies from G4(MP2) theory)</span>
 C40 Paper:
 [[Download]](https://drive.google.com/uc?export=download&id=1_9vbyyfSTxDd85bbC1WemG-F9ca82aAU)
 <br>
@@ -56,13 +56,21 @@ C40 Database:
 [[XYZ files]](/databases/C40_XYZ.tar.gz)
 <a href="/databases/C40_g4mp2_ref.csv" download>[Reference C40 Isomerization Energies]</a>
 
-### C8H8 Database  <span style="font-weight: normal; font-size: smaller;">(44 CCSD(T)/CBS C8H8 isomerization energoes from W1-F12 theory)</span>
+### C8H8 Database  <span style="font-weight: normal; font-size: smaller;">(44 CCSD(T)/CBS C8H8 isomerization energies from W1-F12 theory)</span>
 C8H8 Paper:
 [[Download]](https://drive.google.com/uc?export=download&id=1NeS72vUiXZ_sGvo2ERDX8mKN65_ppp4D)
 <br>
 C8H8 Database:
 [[XYZ files]](/databases/C8H8_XYZ.tar.gz)
 <a href="/databases/C8H8_refs.txt" download>[Reference C8H8 Isomerization Energies]</a>
+
+### Amino Acids Database  <span style="font-weight: normal; font-size: smaller;">(18 CCSD(T)/CBS total atomization energies from W1-F12 theory)</span>
+Aminio Acids Paper:
+[[Download]](https://drive.google.com/uc?export=download&id=1rM6kiD_pVXNiniocOl5_JtaTIYwGJjLo)
+<br>
+Amino Acids Database:
+[[XYZ files]](/databases/Aminio_Acids_Database.tar.gz)
+<a href="/databases/Aminio_Acids_Refs.txt" download>[Reference Total Atomization Energies]</a>
 
 ### BH28 Database  <span style="font-weight: normal; font-size: smaller;">(28 CCSDT(Q)/CBS barrier heights from W3-F12 theory)</span>
 BH28 Paper:

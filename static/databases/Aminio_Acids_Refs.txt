@@ -1,0 +1,24 @@
+CCSD(T)/CBS total atomization energies at the bottom of the well (TAEe) from W1-F12 theory in kcal/mol from Theor Chem Acc (2014) 133:1483
+
+         (a)         (b)
+Ala    1266.71    1265.10
+Arg    2538.02    2535.18
+Asn    1721.57    1719.17
+Asp    1652.54    1649.92
+Cys    1326.15    1323.59
+Gln    2015.61    2012.99
+Glu    1948.24    1945.40
+Gly    969.70    968.30
+His    2103.97    2101.34
+Ile    2152.44    2150.18
+Leu    2152.76    2150.51
+Lys    2318.82    2316.37
+Met    1914.07    1911.05
+Phe    2517.62    2514.72
+Pro    1722.20    1720.10
+Ser    1366.84    1364.80
+Thr    1666.01    1663.77
+Val    1857.80    1855.76
+
+(a) All-electron, nonrelativistic
+(b) All-electron, relativistic, DBOC-inclusive
