@@ -5,7 +5,7 @@ description: "See stunning photos of the historic snowfall in Armidale, NSW. The
 draft: false
 ---
 
-The campus was transformed into a real-life Narnia on August 2, 2025, as the University of New England experienced its biggest snowfall in recorded history. Here are some photos capturing the magic of that incredible day.
+The campus was transformed into a real-life Narnia on August 2, 2025, as the University of New England experienced its biggest snowfall in recent history. Here are some photos capturing the magic of that day.
 
 <figure>
   <video autoplay loop muted playsinline style="max-width: 700px; width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
