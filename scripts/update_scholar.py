@@ -3,11 +3,40 @@ from bs4 import BeautifulSoup
 import json
 import os
 import sys
+import re
 from datetime import date
 
 # --- CONFIGURATION ---
 SCHOLAR_ID = "ogleADAAAAAJ"
+PUB_FILE = "content/publications/_index.md"
 # ---------------------
+
+def get_local_pub_count():
+    """Reads the publications markdown file and finds the highest publication number."""
+    try:
+        if not os.path.exists(PUB_FILE):
+            print(f"Warning: {PUB_FILE} does not exist.")
+            return "N/A"
+            
+        with open(PUB_FILE, "r") as f:
+            content = f.read()
+            
+        # Regex to find numbers in the format: **<a href="" download>123</a>**
+        # This matches your specific pattern in the publications file
+        matches = re.findall(r'\*\*<a href="" download>(\d+)</a>\*\*', content)
+        
+        if matches:
+            # Convert strings to integers and find the maximum
+            count = max(map(int, matches))
+            print(f"Found local publication count: {count}")
+            return str(count)
+        else:
+            print("Warning: No publication numbers found in file.")
+            return "N/A"
+            
+    except Exception as e:
+        print(f"Error reading publication file: {e}")
+        return "N/A"
 
 def get_metrics():
     url = f"https://scholar.google.com.au/citations?user={SCHOLAR_ID}&hl=en"
@@ -25,8 +54,9 @@ def get_metrics():
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    # Initialize with Australian Date Format (DD/MM/YYYY)
+    # Initialize metrics
     metrics = {
+        "publications": get_local_pub_count(),
         "citations": "N/A",
         "h_index": "N/A",
         "i10_index": "N/A",

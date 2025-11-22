@@ -8,11 +8,13 @@ draft: false
 
 {{< scholar >}}
 
+<!--
 ## Citation Report (ISI Web of Science, April 2025)
 
 *   Number of Publications: 224
 *   Sum of Times Cited: 9,617
 *   _H_-index: 55
+-->
 
 ## Academic Profiles
 

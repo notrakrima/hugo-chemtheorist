@@ -2,6 +2,7 @@
   {{ $data := .Site.Data.scholar }}
   {{ if $data }}
     <ul style="list-style-type: none; padding: 0;">
+      <li><strong>Publications:</strong> {{ $data.publications }}</li>
       <li><strong>Citations:</strong> {{ $data.citations }}</li>
       <li><strong>h-index:</strong> {{ $data.h_index }}</li>
       <li><strong>i10-index:</strong> {{ $data.i10_index }}</li>
