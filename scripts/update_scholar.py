@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 import sys
+from datetime import date
 
 # --- CONFIGURATION ---
 SCHOLAR_ID = "ogleADAAAAAJ"
@@ -24,10 +25,12 @@ def get_metrics():
 
     soup = BeautifulSoup(response.text, "html.parser")
 
+    # Initialize with date
     metrics = {
         "citations": "N/A",
         "h_index": "N/A",
-        "i10_index": "N/A"
+        "i10_index": "N/A",
+        "last_updated": date.today().strftime("%Y-%m-%d")
     }
 
     table = soup.find("table", id="gsc_rsb_st")
