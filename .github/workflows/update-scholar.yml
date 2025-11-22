@@ -1,10 +1,7 @@
 name: Update Scholar Metrics
 
 on:
-  schedule:
-    # Runs at 00:00 UTC on Mondays
-    - cron: '0 0 * * 1'
-  workflow_dispatch:
+  workflow_dispatch:  # <--- This means "Only start when I click the button"
 
 permissions:
   contents: write
