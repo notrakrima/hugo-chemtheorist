@@ -4,6 +4,10 @@ date: 2024-02-21
 draft: false
 ---
 
+## Google Scholar
+
+{{< scholar >}}
+
 ## Citation Report (ISI Web of Science, April 2025)
 
 *   Number of Publications: 224

@@ -1,0 +1,35 @@
+name: Update Scholar Metrics
+
+on:
+  schedule:
+    # Runs at 00:00 on Sunday (Weekly)
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allows you to click "Run workflow" manually
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Important: Allows the action to save the JSON file
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Scholar Script
+        run: python scripts/update_scholar.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data/scholar.json
+          # Check if there are changes; if so, commit and push.
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Scholar Metrics [skip ci]" && git push)
