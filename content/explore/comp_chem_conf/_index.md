@@ -6,10 +6,12 @@ draft: false
 
 ## Upcoming Computational Chemistry Conferences 
 
+{{/*
 ### 2025
 
 *   [MM2025, RMIT University, Melbourne, Australia, December 8-10]()
 *   [Pacifichem 2025, Honolulu, USA, Dec 15–20.](https://pacifichem.org/)
+*/}}
 
 ### 2026
 
