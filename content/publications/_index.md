@@ -6,8 +6,9 @@ draft = false
 
 # Peer-Reviewed Publications
 
-#**<a href="" download>230</a>**\. Authors. Title. *Journal*, Vol, Pages (2026). <a href="https://doi.org/" target="_blank" rel="noopener noreferrer">https://doi.org/</a>
-
+<!--
+**<a href="" download>230</a>**\. Authors. Title. *Journal*, Vol, Pages (2026). <a href="https://doi.org/" target="_blank" rel="noopener noreferrer">https://doi.org/</a>
+-->
 ---
 
 <a href="" download>238</a>. R. Stocks, E. Palethorpe, A. Karton, G. M. J. Barca. Double-Hybrid, but not Double-Cost: GPU Accelerated DHDFT for the COMPAS-3 Dataset of Polybenzenoid Hydrocarbons. *Journal of Chemical Theory and Computation*, *in press* (2026).
