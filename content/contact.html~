@@ -18,23 +18,16 @@ draft: false
         <h2>Contact</h2>
         <p style="margin-bottom: 1rem;">
             <strong>Prof. Amir Karton</strong><br>
-            Founding Director, Institute for Strategic AI (ISA)<br>
-            Associate Dean of Research<br>
             Professor of Physical and Materials Chemistry<br>
+            Associate Dean of Research<br>
+            Faculty of Science, Agriculture, Business and Law<br>
             University of New England<br>
             Australia
         </p>
-
         <p style="margin-bottom: 1rem;">
-            <strong>Global Affiliations:</strong><br>
-            Visiting Researcher, Microsoft Research (AI4Science)<br>
-            Adjunct Professor of Materials Chemistry, The University of Western Australia
-        </p>
-
-        <p style="margin-bottom: 1rem;">
-            <strong>Institute Address (Office 2.08)</strong><br>
-            Riggs Building (Building C33)<br> <!-- Kept familiar info but elevated -->
+            <strong>Riggs Building (Office 2.08)</strong><br>
             8 Chemistry Rd<br>
+            School of Science and Technology<br>
             University of New England<br>
             Armidale NSW 2351<br>
             Australia
@@ -53,7 +46,7 @@ draft: false
 <h2><a href="/editor/">Editorial Roles</a></h2>
 <ul>
     <li>Editor, Chemical Physics Letters (Elsevier)</li>
-    <li>Associate Editor, Australian Journal of Chemistry (CSIRO)</li>
+    <li>Editor, Australian Journal of Chemistry (CSIRO)</li>
 </ul>
 
 <hr>
