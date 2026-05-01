@@ -11,7 +11,7 @@ draft = false
 -->
 ---
 
-<a href="" download>238</a>. R. Stocks, E. Palethorpe, A. Karton, G. M. J. Barca. Double-Hybrid, but not Double-Cost: GPU Accelerated DHDFT for the COMPAS-3 Dataset of Polybenzenoid Hydrocarbons. *Journal of Chemical Theory and Computation*, *in press* (2026).
+<a href="" download>238</a>. R. Stocks, E. Palethorpe, A. Karton, G. M. J. Barca. Double-Hybrid, but not Double-Cost: GPU Accelerated DHDFT for the COMPAS-3 Dataset of Polybenzenoid Hydrocarbons. *Journal of Chemical Theory and Computation*, *in press* (2026). <a href="https://doi.org/10.1021/acs.jctc.6c00175" target="_blank" rel="noopener noreferrer">https://doi.org/10.1021/acs.jctc.6c00175</a>
 
 <a href="" download>237</a>. S. Ehlert, J. Hermann, T. Vogels, V. G. Satorras, S. Lanius, M. Segler, K. J. H. Giesbertz, D. P. Kooi, K. Takeda, C.-W. Huang, G. Luise, R. van den Berg, P. Gori-Giorgi, A. Karton. Accurate Chemistry Collection: Coupled cluster atomization energies for broad chemical space. *Scientific Data*, *in press* (2026). <a href="https://doi.org/10.1038/s41597-026-07200-8" target="_blank" rel="noopener noreferrer">https://doi.org/10.1038/s41597-026-07200-8</a>
 
