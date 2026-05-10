@@ -24,6 +24,8 @@ draft: false
 
 *   [12th conference of the Asia Pacific Association of Theoretical and Computational Chemistry (APCTCC-12)]()
 
+*   [12th conference for the International Society for Theoretical Chemical Physics (ISTCP), Corrientes, Argentina, Aug 29 -- Sep 3](https://coulson.chem.elte.hu/istcp/congresses.html)
+
 ### 2028
 
 *   [14th Triennial Congress of the World Association of Theoretical and Computational Chemists (WATOC), Merida, Mexico, Organized by Profs. Gabriel Merino and Annia Galano]()
