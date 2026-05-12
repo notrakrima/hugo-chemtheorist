@@ -22,7 +22,7 @@ draft: false
 
 ### 2027
 
-*   [12th conference of the Asia Pacific Association of Theoretical and Computational Chemistry (APCTCC-12)]()
+*   [12th conference of the Asia Pacific Association of Theoretical and Computational Chemistry (APCTCC-12)](https://apatcc.org/conference)
 
 *   [12th conference for the International Society for Theoretical Chemical Physics (ISTCP), Corrientes, Argentina, Aug 29 -- Sep 3](https://coulson.chem.elte.hu/istcp/congresses.html)
 
