@@ -1,18 +1,22 @@
 <header class="site-header">
   <div class="container">
-          <div class="logo">
-        <!-- Link the banner image back to the homepage -->
-        <a href="{{ .Site.BaseURL }}">
-          <img src="/images/TopBanner3.jpg" alt="Institute for Strategic AI Banner" class="header-banner"> 
-        </a> 
-      </div>
-  <nav class="main-nav">
-  <ul>
-    {{ range .Site.Menus.main }}
-      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-    {{ end }}
-  </ul>
-</nav>
-</div>
-</header>
+    <div class="logo">
+      <!-- Link the combined images back to the homepage -->
+      <a href="{{ .Site.BaseURL }}" style="display: flex; align-items: center; gap: 20px; text-decoration: none;">
+        <!-- 1. The UNE & Crest image -->
+        <img src="/images/TopBanner3.jpg" alt="UNE Logo" style="max-height: 60px; width: auto; object-fit: contain;"> 
+        
+        <!-- 2. The new ISA logo graphic -->
+        <img src="/images/isa.png" alt="Institute for Strategic AI" style="max-height: 50px; width: auto; object-fit: contain;">
+      </a> 
+    </div>
 
+    <nav class="main-nav">
+      <ul>
+        {{ range .Site.Menus.main }}
+          <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
+</header>
