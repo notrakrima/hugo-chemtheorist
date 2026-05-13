@@ -4,13 +4,11 @@
       <!-- Link the combined images back to the homepage -->
       <a href="{{ .Site.BaseURL }}" style="display: flex; align-items: center; gap: 20px; text-decoration: none;">
         <!-- 1. The UNE & Crest image -->
-       <a href="https://www.une.edu.au/staff-profiles/science-and-technology/amir-karton" target="_blank" rel="noopener noreferrer">
-  <img src="/images/TopBanner3.jpg" alt="UNE Logo" style="max-height: 60px; width: auto; object-fit: contain;">
-</a> 
+        <img src="/images/TopBanner3.jpg" alt="UNE Logo" style="max-height: 60px; width: auto; object-fit: contain;"> 
+        
         <!-- 2. The new ISA logo graphic -->
-       <a href="https://www.theisa.ai/" target="_blank" rel="noopener noreferrer">
-  <img src="/images/isa.png" alt="Institute for Strategic AI" style="max-height: 50px; width: auto; object-fit: contain;">
-</a> 
+        <img src="/images/isa.png" alt="Institute for Strategic AI" style="max-height: 50px; width: auto; object-fit: contain;">
+      </a> 
     </div>
 
     <nav class="main-nav">
