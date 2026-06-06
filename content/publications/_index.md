@@ -21,7 +21,7 @@ draft = false
 
 **<a href="" download>235</a>**\. A. Karton. W1-S$_N$2-BH: A Large-Scale CCSD(T)/CBS Kinetic Database. *Journal of Physical Chemistry A*, 130, 2929–2942 (2026). <a href="https://doi.org/10.1021/acs.jpca.6c00424" target="_blank" rel="noopener noreferrer">https://doi.org/10.1021/acs.jpca.6c00424</a>
 
-**<a href="" download>234</a>**\. A. Karton. The Quest for High Accuracy in Quantum Chemistry. *Handbook of Electronic Structure Theory: Methods and Applications*, 1st Edition, Eds: M. Hochlaf and V. Barone, Part 1, Chapter 10, pg. 167–179, Elsevier (2026), ISBN 9780443265976.
+**<a href="" download>234</a>**\. A. Karton. The Quest for High Accuracy in Quantum Chemistry. *Handbook of Electronic Structure Theory: Methods and Applications*, 1st Edition, Eds: M. Hochlaf and V. Barone, Part 1, Chapter 10, pg. 167–179, Elsevier (2026), ISBN 9780443265976. <a href="https://doi.org/10.1016/B978-0-443-26596-9.00025-9" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/B978-0-443-26596-9.00025-9</a>
 
 **<a href="" download>233</a>**\. N. Thamwattana, A. Karton, B. J. Cox. Modelling graphene deformations induced by bucky-ball and bucky-bowl interactions. *ChemPhysChem*, 27, e202500767 (2026). <a href="https://doi.org/10.1002/cphc.202500767" target="_blank" rel="noopener noreferrer">https://doi.org/10.1002/cphc.202500767</a>
 
