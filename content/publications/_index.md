@@ -31,7 +31,7 @@ draft = false
 
 **<a href="" download>230</a>**\. S. Shekhar, K. Tripathi, A. Karton, S. Roy, R. Joshi, K. K. Pant. Sustainable Hydrogen Production via Methane Decomposition using Bimetallic Catalysts. *Chemical Engineering Journal*, 523, 168485 (2025). <a href="https://doi.org/10.1016/j.cej.2025.168485" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cej.2025.168485</a>
 
-**<a href="" download>229</a>**\. A. J. Notzon, O. Lamb, C. J. Sumby, A. Karton, R. O’Reilly, B. W. Greatrex. Tropylium catalyzed domino reactions for the thioetherification of levoglucosenone. *Synthesis*, 57, 3488–3496 (2025). <a href="https://doi.org/10.1002/jcc.70198 " target="_blank" rel="noopener noreferrer">https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-2669-5931</a>
+**<a href="" download>229</a>**\. A. J. Notzon, O. Lamb, C. J. Sumby, A. Karton, R. O’Reilly, B. W. Greatrex. Tropylium catalyzed domino reactions for the thioetherification of levoglucosenone. *Synthesis*, 57, 3488–3496 (2025). <a href="https://dx.doi.org/10.1055/a-2669-5931" target="_blank" rel="noopener noreferrer">https://dx.doi.org/10.1055/a-2669-5931</a>
 
 **<a href="" download>228</a>**\. K. P. Gregory, A. Karton. Big-Data Analysis of Geometric Descriptors as Efficient Predictors of Energetic Stability in Nonplanar Polycyclic Aromatic Hydrocarbons. *Journal of Computational Chemistry*, 46, e70198 (2025). <a href="https://doi.org/10.1002/jcc.70198 " target="_blank" rel="noopener noreferrer">https://doi.org/10.1002/jcc.70198</a>
 
