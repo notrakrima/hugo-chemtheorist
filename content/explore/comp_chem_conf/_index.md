@@ -19,6 +19,7 @@ draft: false
 *   [18th International Congress of Quantum Chemistry (ICQC), Berkeley, California, USA, May 31 -- June 6](https://icqc2026.org/)
 *   [16th Asian International Seminar on Atomic and Molecular Physics (AISAMP), Institute of Atomic and Molecular Sciences Academia Sinica, Taipei, Taiwan, Oct 26 -- Oct 30]()
 *   [6th International Conference on Emerging Advanced Nanomaterials (ICEAN), Newcastle Exhibition and Convention Centre, Newcastle, Australia, Nov 16 -- 20](https://www.icean2026.com/)
+*   [International Symposium on Advanced Materials and Sustainable Technology (AM&ST26), Noosa Heads, Sunshine Coast, Australia, Dec 9 -- 11](https://www.amst26.dailyeliteevents.com.au/)
 
 ### 2027
 
