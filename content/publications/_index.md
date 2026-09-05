@@ -17,7 +17,7 @@ draft = false
 
 **<a href="" download>241</a>**\. M. M. Rahim, A. Karton. Regulating Engineered Nanomaterials in Food: Challenges and Lessons for Australia. *Oregon Review of International Law*, 27, 121 (2026). <a href="https://hdl.handle.net/1794/33416" target="_blank" rel="noopener noreferrer">https://hdl.handle.net/1794/33416</a>
 
-**<a href="" download>240</a>**\. .B. Chan, A. Karton. The binding between amino acids and microplastics: A quantum chemistry study into the interactions of model systems and the prospect of extending to larger aggregates. *Chemical Physics Letters*, 898, 143007 (2026). <a href="https://doi.org/10.1016/j.cplett.2026.143007" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cplett.2026.143007</a>
+**<a href="" download>240</a>**\. B. Chan, A. Karton. The binding between amino acids and microplastics: A quantum chemistry study into the interactions of model systems and the prospect of extending to larger aggregates. *Chemical Physics Letters*, 898, 143007 (2026). <a href="https://doi.org/10.1016/j.cplett.2026.143007" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.cplett.2026.143007</a>
 
 **<a href="" download>239</a>**\. L. V. Duong, M. T. Nguyen, A. Karton. Super alkaline earth B$_{18}$Mg$_6$: Reversible high capacity hydrogen storage at ambient temperature. *Journal of Power Sources*, 684, 240340 (2026). <a href="https://doi.org/10.1016/j.jpowsour.2026.240340" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.jpowsour.2026.240340</a>
 
