@@ -1,6 +1,6 @@
 ---
 title: "CTK-DB hosting test"
-date: 2026-09-10T12:00:00+10:00
+date: 2026-09-09T12:00:00+10:00
 draft: false
 description: "Temporary page checking that the site can serve a dashboard page with data files beside it."
 ---
