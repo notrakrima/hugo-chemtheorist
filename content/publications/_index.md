@@ -496,3 +496,15 @@ draft = false
 **<a href="https://drive.google.com/uc?export=download&id=1omprszzfsJXZaBrZFsPMjwL4gJJnzkbI" download>2</a>**\. A. Salomon, R. Arad-Yellin, A. Shanzer, A. Karton, D. Cahen. Stable room-temperature molecular negative differential resistance based on molecule–electrode interface chemistry. *Journal of the American Chemical Society* 126, 11648–11657 (2004). <a href="http://dx.doi.org/10.1021/ja049584l" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1021/ja049584l</a>
 
 **<a href="https://drive.google.com/uc?export=download&id=1qvzL2LLSnlDsfu6FqytpavbOYW93QHUW" download>1</a>**\. B. Shapira, A. Karton, D. Aronzon, L. Frydman. Real-time 2D NMR identification of analytes undergoing continuous chromatographic separation. *Journal of the American Chemical Society* 126, 1262–1265 (2004). <a href="http://dx.doi.org/10.1021/ja0389422" target="_blank" rel="noopener noreferrer">http://dx.doi.org/10.1021/ja0389422</a>
+
+
+# Publications in Public Engagement and Policy
+
+**4.** A. Karton. Data centres in Australia: your questions answered, What’s in it for us? Why does the government want them? _The Conversation_ (2026). [[URL]](https://doi.org/10.64628/AA.s5tfaf3tf)
+
+**3.** A. Karton. Helium: it’s no light matter. _Australian Physics_, 56 (3), 50–51 (2019).
+
+**2.** A. Karton. Graphene: a catalyst for the carbon age. _Australian Resources and Investment_, 9 (2), 114–115 (2015).
+
+**1.** A. Karton. The graphene revolution of the 21st century. _Australian Resources and Investment_, 9 (1), 108–109 (2015).
+
