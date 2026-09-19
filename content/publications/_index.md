@@ -503,9 +503,9 @@ draft = false
 
 **<a href="https://doi.org/10.64628/AA.s5tfaf3tf" target="_blank" rel="noopener noreferrer">4.</a>** A. Karton. Data centres in Australia: your questions answered, What’s in it for us? Why does the government want them? _The Conversation_ (2026). <a href="https://doi.org/10.64628/AA.s5tfaf3tf" target="_blank" rel="noopener noreferrer">https://doi.org/10.64628/AA.s5tfaf3tf</a>
 
-**<a href="https://drive.google.com/file/d/1QsqEQQDWL6t5wKAtvgUB57wv_mWyLuuu/view?usp=drive_link" target="_blank" rel="noopener noreferrer">3.</a>** A. Karton. Helium: it’s no light matter. _Australian Physics_, 56 (3), 50–51 (2019).
+**<a href="https://drive.google.com/file/d/1QsqEQQDWL6t5wKAtvgUB57wv_mWyLuuu/view?usp=drive_link" download>3.</a>** A. Karton. Helium: it’s no light matter. _Australian Physics_, 56 (3), 50–51 (2019).
 
-**2.** A. Karton. Graphene: a catalyst for the carbon age. _Australian Resources and Investment_, 9 (2), 114–115 (2015).
+**<a href="https://drive.google.com/file/d/1__fbPOAScbudozO_zPr1oeaUl-4iPr6k/view?usp=drive_link" download>2.<\a>** A. Karton. Graphene: a catalyst for the carbon age. _Australian Resources and Investment_, 9 (2), 114–115 (2015).
 
-**1.** A. Karton. The graphene revolution of the 21st century. _Australian Resources and Investment_, 9 (1), 108–109 (2015).
+**<a href="https://drive.google.com/file/d/1lZK7I891f0X9G4_M6ZpJYSf2-Bz-M0Lk/view?usp=drive_link" download>1.<\a>** A. Karton. The graphene revolution of the 21st century. _Australian Resources and Investment_, 9 (1), 108–109 (2015).
 
