@@ -7,13 +7,15 @@ draft = false
 # Peer-Reviewed Publications
 
 <!--
-**<a href="" download>244</a>**\. Authors. Title. *Journal*, Vol, Pages (2026). <a href="https://doi.org/" target="_blank" rel="noopener noreferrer">https://doi.org/</a>
+**<a href="" download>245</a>**\. Authors. Title. *Journal*, Vol, Pages (2026). <a href="https://doi.org/" target="_blank" rel="noopener noreferrer">https://doi.org/</a>
 -->
 ---
 
-**<a href="" download>243</a>**\. A. Karton. The Open-Shell Organic Systems Database: Diverse CCSD(T)/CBS Reaction Energies for Assessing Density Functional Theory and Machine Learning Methods. *Journal of Physical Chemistry A*, in press (2026). <a href="https://doi.org/10.1021/acs.jpca.6c03915" target="_blank" rel="noopener noreferrer">https://doi.org/10.1021/acs.jpca.6c03915</a>
+**<a href="" download>244</a>**\. M. Joshi, R. Joshi, A. Karton. Electronic Origins of Gas-Selective Adsorption in Rim-Functionalized Porous Nanographenes. *Physical Chemistry Chemical Physics*, in press (2026). <a href="https://doi.org/" target="_blank" rel="noopener noreferrer">https://doi.org/</a>
 
-**<a href="" download>242</a>**\. S. Shekhar, Amir Karton, K. Tripathi, S. Roy, R. Joshi, K. K. Pant. .DFT Study of Fe-Based Bimetallic Catalysts for Hydrogen Production via Methane Decomposition. *International Journal of Hydrogen Energy*, in press (2026). <a href="https://doi.org/" target="_blank" rel="noopener noreferrer">https://doi.org/</a>
+**<a href="" download>243</a>**\. A. Karton. The Open-Shell Organic Systems Database: Diverse CCSD(T)/CBS Reaction Energies for Assessing Density Functional Theory and Machine Learning Methods. *Journal of Physical Chemistry A*, 130, 7267–7282 (2026). <a href="https://doi.org/10.1021/acs.jpca.6c03915" target="_blank" rel="noopener noreferrer">https://doi.org/10.1021/acs.jpca.6c03915</a>
+
+**<a href="" download>242</a>**\. S. Shekhar, Amir Karton, K. Tripathi, S. Roy, R. Joshi, K. K. Pant. .DFT Study of Fe-Based Bimetallic Catalysts for Hydrogen Production via Methane Decomposition. *International Journal of Hydrogen Energy*, 271, 157187 (2026). <a href="https://doi.org/10.1016/j.ijhydene.2026.157187" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.ijhydene.2026.157187</a>
 
 **<a href="" download>241</a>**\. M. M. Rahim, A. Karton. Regulating Engineered Nanomaterials in Food: Challenges and Lessons for Australia. *Oregon Review of International Law*, 27, 121 (2026). <a href="https://hdl.handle.net/1794/33416" target="_blank" rel="noopener noreferrer">https://hdl.handle.net/1794/33416</a>
 
