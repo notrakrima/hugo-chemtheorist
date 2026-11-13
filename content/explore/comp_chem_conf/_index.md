@@ -25,9 +25,9 @@ draft: false
 
 *   [1st RACI Conference on Robotics, Automation and Machine Learning in Chemistry (DigiChem'27)](https://digichem27.au/), Melbourne, Australia, Feb 22 -- 23.
 
-*   [12th conference of the Asia Pacific Association of Theoretical and Computational Chemistry (APCTCC-12)](https://apatcc.org/conference), Thailand Nov 9 -- 14.
-
 *   [12th conference for the International Society for Theoretical Chemical Physics (ISTCP), Corrientes, Argentina, Aug 29 -- Sep 3](https://coulson.chem.elte.hu/istcp/congresses.html)
+
+*   [12th conference of the Asia Pacific Association of Theoretical and Computational Chemistry (APCTCC-12)](https://apatcc.org/conference), Thailand Nov 9 -- 14.
 
 ### 2028
 
